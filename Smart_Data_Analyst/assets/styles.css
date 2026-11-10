@@ -1,0 +1,207 @@
+/* =================================================================
+   SMART DATA ANALYST — AWARD-WINNING ENTERPRISE SAAS DESIGN SYSTEM
+   Deep Midnight / Indigo / Cyan Gradient Glassmorphism Theme
+   ================================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg-main: #06090f;
+  --bg-card: rgba(15, 23, 42, 0.75);
+  --bg-card-hover: rgba(30, 41, 59, 0.85);
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-glow: rgba(99, 102, 241, 0.35);
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --accent-indigo: #6366f1;
+  --accent-cyan: #06b6d4;
+  --accent-emerald: #10b981;
+  --accent-rose: #f43f5e;
+  --accent-amber: #f59e0b;
+  --gradient-primary: linear-gradient(135deg, #6366f1 0%, #06b6d4 100%);
+  --gradient-glow: linear-gradient(135deg, rgba(99,102,241,0.15) 0%, rgba(6,182,212,0.15) 100%);
+  --shadow-card: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* Global Reset */
+html, body, [class*="st-"] {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+.stApp {
+  background: radial-gradient(circle at 15% 15%, rgba(99, 102, 241, 0.07) 0%, transparent 45%),
+              radial-gradient(circle at 85% 85%, rgba(6, 182, 212, 0.06) 0%, transparent 40%),
+              #070b12 !important;
+}
+
+/* Sidebar Customization */
+section[data-testid="stSidebar"] {
+  background: rgba(10, 15, 26, 0.95) !important;
+  border-right: 1px solid var(--border-subtle) !important;
+  backdrop-filter: blur(12px) !important;
+}
+
+/* Hero & Header Styling */
+.sda-header-hero {
+  background: var(--gradient-glow);
+  border: 1px solid var(--border-glow);
+  border-radius: 16px;
+  padding: 24px 28px;
+  margin-bottom: 24px;
+  backdrop-filter: blur(16px);
+  box-shadow: var(--shadow-card);
+  position: relative;
+  overflow: hidden;
+}
+
+.sda-header-hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gradient-primary);
+}
+
+.sda-title {
+  font-size: 2.1rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, #ffffff 30%, #cbd5e1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.sda-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin-top: 6px;
+  font-weight: 400;
+}
+
+/* KPI Card Grid */
+.sda-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.sda-kpi-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 14px;
+  padding: 20px 22px;
+  backdrop-filter: blur(12px);
+  box-shadow: var(--shadow-card);
+  transition: all 0.25s ease;
+  position: relative;
+}
+
+.sda-kpi-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--border-glow);
+  background: var(--bg-card-hover);
+}
+
+.sda-kpi-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sda-kpi-val {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  line-height: 1.1;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.sda-kpi-badge {
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  font-weight: 600;
+  background: rgba(99, 102, 241, 0.15);
+  color: #818cf8;
+  border: 1px solid rgba(99, 102, 241, 0.3);
+}
+
+.sda-kpi-sub {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-top: 8px;
+}
+
+/* Observation & Alert Cards */
+.sda-insight-card {
+  background: rgba(15, 23, 42, 0.65);
+  border-left: 4px solid var(--accent-indigo);
+  border-radius: 8px 12px 12px 8px;
+  padding: 16px 20px;
+  margin-bottom: 12px;
+  border-top: 1px solid var(--border-subtle);
+  border-right: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+  transition: transform 0.2s;
+}
+
+.sda-insight-card:hover {
+  transform: translateX(4px);
+}
+
+.sda-insight-card.warning {
+  border-left-color: var(--accent-amber);
+}
+
+.sda-insight-card.danger {
+  border-left-color: var(--accent-rose);
+}
+
+.sda-insight-card.success {
+  border-left-color: var(--accent-emerald);
+}
+
+/* Tabs & Dataframe overrides */
+.stTabs [data-baseweb="tab-list"] {
+  background: rgba(15, 23, 42, 0.6);
+  border-radius: 12px;
+  padding: 6px;
+  gap: 6px;
+  border: 1px solid var(--border-subtle);
+}
+
+.stTabs [data-baseweb="tab"] {
+  border-radius: 8px;
+  padding: 8px 18px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border: none !important;
+}
+
+.stTabs [aria-selected="true"] {
+  background: var(--accent-indigo) !important;
+  color: #ffffff !important;
+}
+
+div[data-testid="stDataFrame"] {
+  border-radius: 12px !important;
+  border: 1px solid var(--border-subtle) !important;
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+}
+

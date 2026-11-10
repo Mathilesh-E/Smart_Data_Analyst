@@ -1,0 +1,281 @@
+StudentID,Major,Gender,StudyHoursPerWeek,AttendancePct,PreviousFailures,MidtermExam,FinalExam,Passed
+STU-5000,Data Analytics,Female,24.6,96.9,2.0,78.9,96.7,Yes
+STU-5001,Data Analytics,Male,23.5,81.3,1.0,76.2,97.2,No
+STU-5002,Data Analytics,Female,29.3,69.8,0.0,56.7,56.8,
+STU-5003,Finance,Female,25.7,76.9,0.0,73.8,61.3,Yes
+STU-5004,Biology,Male,24.1,70.8,1.0,72.9,72.5,Yes
+STU-5005,Data Analytics,Male,6.7,71.0,0.0,68.0,87.6,Yes
+STU-5006,Data Analytics,Female,27.2,98.2,0.0,85.4,52.2,
+STU-5007,Computer Science,Female,20.5,80.6,0.0,65.4,75.3,Yes
+STU-5008,Finance,Female,21.9,92.6,0.0,79.0,69.8,Yes
+STU-5009,Data Analytics,Male,21.9,87.4,1.0,72.4,93.2,
+STU-5010,Finance,Female,24.6,88.7,0.0,75.2,54.2,Yes
+STU-5011,Data Analytics,Female,26.7,69.6,0.0,78.5,77.2,No
+STU-5012,Biology,Female,23.8,73.2,0.0,59.6,70.9,No
+STU-5013,Biology,Male,22.9,92.5,1.0,76.1,95.1,
+STU-5014,Data Analytics,Male,21.4,99.0,2.0,99.2,83.8,Yes
+STU-5015,Biology,Female,4.0,74.2,2.0,56.9,68.4,Yes
+STU-5016,Data Analytics,Female,18.3,74.5,0.0,,87.1,Yes
+STU-5017,Biology,Male,14.4,81.6,2.0,86.4,70.9,Yes
+STU-5018,Computer Science,Male,27.3,99.4,2.0,77.3,89.0,Yes
+STU-5019,Computer Science,Male,23.7,74.4,0.0,81.6,72.9,Yes
+STU-5020,Computer Science,Male,17.3,79.2,0.0,47.9,89.7,Yes
+STU-5021,Finance,Male,17.9,96.2,0.0,80.6,81.7,Yes
+STU-5022,Finance,Male,17.6,65.1,0.0,65.6,100.0,Yes
+STU-5023,Computer Science,Male,17.5,66.4,0.0,,75.3,No
+STU-5024,Finance,Male,11.3,86.1,0.0,73.7,,Yes
+STU-5025,Biology,Male,10.0,96.8,1.0,99.1,69.8,Yes
+STU-5026,Data Analytics,Female,20.2,73.4,1.0,80.0,76.0,Yes
+STU-5027,Data Analytics,Female,26.5,81.4,0.0,72.8,40.9,Yes
+STU-5028,Data Analytics,Female,16.8,80.8,0.0,57.4,82.1,Yes
+STU-5029,Computer Science,Male,21.8,81.6,0.0,75.3,93.5,No
+STU-5030,Finance,Female,24.4,86.8,2.0,83.1,81.2,Yes
+STU-5031,Biology,Male,14.0,81.4,1.0,73.1,58.9,Yes
+STU-5032,Biology,Male,19.9,80.7,0.0,68.4,65.6,Yes
+STU-5033,Computer Science,Female,16.0,81.6,,67.7,44.4,No
+STU-5034,Biology,Male,29.6,85.7,0.0,79.9,88.7,Yes
+STU-5035,Biology,Female,29.4,83.8,2.0,82.4,62.9,Yes
+STU-5036,Biology,Female,,,2.0,89.0,,Yes
+STU-5037,Biology,Female,22.3,66.7,0.0,63.1,74.0,Yes
+STU-5038,Finance,Male,26.4,94.2,0.0,,95.3,Yes
+STU-5039,Biology,Female,25.1,94.5,0.0,72.7,77.1,Yes
+STU-5040,Data Analytics,Male,,75.0,2.0,73.0,86.5,No
+STU-5041,Computer Science,Female,27.8,81.2,2.0,78.4,83.1,Yes
+STU-5042,Finance,Female,14.6,80.3,2.0,78.5,93.7,Yes
+STU-5043,Biology,Female,18.2,72.6,0.0,79.8,72.9,Yes
+STU-5044,Finance,Male,14.7,78.9,2.0,62.4,100.0,
+STU-5045,Biology,Male,24.7,66.6,0.0,65.8,50.2,Yes
+STU-5046,Data Analytics,Male,16.5,74.7,0.0,90.3,87.1,Yes
+STU-5047,Computer Science,Female,19.0,93.6,0.0,71.6,64.7,No
+STU-5048,Biology,Female,23.7,75.0,0.0,77.4,69.6,Yes
+STU-5049,Biology,Male,24.2,93.6,0.0,85.6,83.4,Yes
+STU-5050,Biology,Male,14.6,83.6,0.0,79.1,83.3,Yes
+STU-5051,Biology,Male,26.3,95.8,1.0,80.0,83.9,Yes
+STU-5052,Computer Science,Male,22.7,85.1,1.0,83.8,58.0,Yes
+STU-5053,Computer Science,Male,13.5,66.0,1.0,50.7,94.8,Yes
+STU-5054,Data Analytics,Male,12.0,88.6,0.0,68.6,64.3,Yes
+STU-5055,Computer Science,Female,19.9,66.6,0.0,79.2,66.0,No
+STU-5056,Biology,Male,25.1,80.8,1.0,89.3,84.3,Yes
+STU-5057,Data Analytics,,25.3,97.5,1.0,74.7,72.3,Yes
+STU-5058,Data Analytics,Female,22.1,70.8,2.0,64.7,80.0,Yes
+STU-5059,Data Analytics,Male,20.3,78.6,1.0,65.0,48.0,No
+STU-5060,Biology,Male,23.1,90.5,2.0,83.7,79.7,Yes
+STU-5061,Finance,Female,14.9,95.9,0.0,71.6,78.8,Yes
+STU-5062,Biology,Male,30.1,88.5,0.0,73.9,69.4,Yes
+STU-5063,Computer Science,Male,30.0,74.0,1.0,80.8,,Yes
+STU-5064,Computer Science,Female,22.6,88.6,,42.1,73.2,Yes
+STU-5065,,Female,21.2,75.4,0.0,96.0,75.5,Yes
+STU-5066,Biology,Female,17.5,90.1,0.0,66.0,71.2,Yes
+STU-5067,,Male,23.2,98.4,0.0,,52.1,
+STU-5068,Biology,Female,15.9,90.2,0.0,55.2,96.7,
+STU-5069,Data Analytics,Male,6.7,95.2,1.0,69.4,67.7,Yes
+STU-5070,Computer Science,,,65.1,0.0,87.7,73.1,Yes
+STU-5071,Data Analytics,Female,15.2,90.1,0.0,52.9,44.7,Yes
+STU-5072,Biology,Female,20.9,94.0,0.0,86.4,96.7,No
+STU-5073,Computer Science,Male,22.0,66.4,0.0,71.0,69.9,Yes
+STU-5074,Finance,Male,17.1,95.5,,79.4,77.3,No
+STU-5075,Data Analytics,Female,20.9,74.0,0.0,81.2,90.6,Yes
+STU-5076,Computer Science,Female,18.4,88.3,0.0,78.9,67.2,Yes
+STU-5077,Data Analytics,Female,14.0,93.0,0.0,,88.5,No
+STU-5078,Computer Science,Male,19.7,88.2,0.0,70.0,49.2,Yes
+STU-5079,Computer Science,Female,24.9,68.2,0.0,57.9,83.2,
+STU-5080,Data Analytics,Male,14.3,85.9,2.0,79.4,96.4,Yes
+STU-5081,Finance,Female,14.3,84.2,1.0,92.7,68.5,Yes
+STU-5082,Computer Science,Female,13.6,96.5,0.0,53.9,90.5,Yes
+STU-5083,Computer Science,Female,8.4,79.1,2.0,65.6,99.8,Yes
+STU-5084,Computer Science,Female,17.1,76.2,1.0,72.0,72.7,Yes
+STU-5085,Finance,Female,24.3,91.2,0.0,75.9,71.6,Yes
+STU-5086,Finance,Female,21.0,79.4,0.0,83.7,64.3,Yes
+STU-5087,Biology,Male,19.0,87.6,0.0,72.3,69.4,Yes
+STU-5088,Data Analytics,Female,20.8,,0.0,70.5,65.4,Yes
+STU-5089,Finance,Male,17.1,96.1,0.0,86.1,64.3,Yes
+STU-5090,,Female,8.3,86.0,0.0,81.3,91.6,No
+,Biology,,24.7,82.6,0.0,79.9,65.7,Yes
+STU-5092,Data Analytics,Male,26.4,69.9,0.0,75.2,79.4,No
+STU-5093,Finance,Female,15.6,69.1,1.0,84.8,76.5,Yes
+STU-5094,Data Analytics,Male,19.1,70.4,,66.8,95.5,Yes
+STU-5095,Finance,Male,18.6,71.0,1.0,65.3,,Yes
+STU-5096,Data Analytics,Female,22.1,87.3,0.0,82.2,81.0,Yes
+STU-5097,Finance,Male,30.1,90.9,0.0,56.1,86.3,Yes
+STU-5098,Finance,Male,27.0,,2.0,75.0,95.4,Yes
+STU-5099,Data Analytics,Female,17.7,94.0,0.0,70.5,69.3,Yes
+STU-5100,Biology,Male,23.3,99.7,0.0,58.5,68.0,No
+STU-5101,Computer Science,Female,27.5,93.7,1.0,63.8,62.2,Yes
+STU-5102,Biology,Female,22.5,89.3,0.0,72.8,100.0,Yes
+STU-5103,Data Analytics,Female,20.0,83.6,2.0,85.4,94.0,Yes
+STU-5104,Biology,Female,22.7,80.7,0.0,66.8,75.5,Yes
+STU-5105,Finance,Male,15.8,68.0,0.0,87.3,100.0,Yes
+STU-5106,Computer Science,Female,16.7,79.0,0.0,74.7,74.7,Yes
+STU-5107,Data Analytics,Female,13.6,96.9,2.0,88.4,85.4,No
+,Data Analytics,Male,21.8,93.3,0.0,67.4,76.1,Yes
+STU-5109,Data Analytics,Female,19.2,72.6,1.0,73.5,81.2,Yes
+STU-5110,Computer Science,Female,15.1,81.3,0.0,78.1,79.8,Yes
+STU-5111,Finance,Male,19.0,93.6,0.0,72.0,70.5,Yes
+STU-5112,Data Analytics,Male,22.8,67.4,0.0,84.5,90.2,Yes
+STU-5113,Biology,Male,31.5,78.6,2.0,49.7,85.3,Yes
+,Data Analytics,Male,26.1,94.8,2.0,100.0,89.4,Yes
+STU-5115,Data Analytics,Male,6.3,79.1,0.0,83.4,80.2,Yes
+STU-5116,Data Analytics,Male,21.4,67.7,2.0,72.1,64.2,Yes
+STU-5117,,Male,28.6,84.0,2.0,67.9,98.2,Yes
+STU-5118,Finance,Female,12.0,95.2,0.0,64.5,,Yes
+STU-5119,Biology,Male,23.3,85.7,1.0,81.1,80.7,Yes
+STU-5120,Finance,Male,18.6,72.9,0.0,84.9,84.3,Yes
+STU-5121,Biology,Male,26.9,78.4,0.0,72.2,80.6,No
+STU-5122,Data Analytics,Female,22.4,80.8,1.0,86.2,87.9,No
+STU-5123,Computer Science,Female,14.7,85.3,0.0,64.0,90.0,Yes
+STU-5124,Finance,Male,18.8,91.6,0.0,62.1,73.1,Yes
+STU-5125,Computer Science,Male,19.1,68.5,2.0,93.9,97.1,Yes
+STU-5126,Finance,Male,19.3,96.1,1.0,80.5,72.5,Yes
+STU-5127,Data Analytics,Female,26.7,65.4,0.0,89.4,80.4,No
+STU-5128,Finance,Female,14.9,78.0,0.0,64.6,71.0,Yes
+STU-5129,Data Analytics,Male,26.0,66.0,1.0,63.8,67.2,No
+STU-5130,Finance,,18.2,78.8,2.0,70.1,89.6,No
+STU-5131,Data Analytics,Male,21.3,83.4,0.0,64.9,100.0,Yes
+STU-5132,Data Analytics,Female,20.4,82.9,0.0,81.8,71.3,Yes
+STU-5133,Biology,Female,19.9,70.8,2.0,65.7,,Yes
+STU-5134,Data Analytics,Male,19.9,87.6,1.0,61.1,71.8,No
+STU-5135,,Male,28.7,66.6,0.0,75.6,75.9,Yes
+STU-5136,Data Analytics,Male,25.1,91.7,0.0,59.8,98.8,
+STU-5137,Computer Science,Male,17.8,98.1,0.0,54.2,62.0,Yes
+STU-5138,Data Analytics,Female,29.5,76.9,0.0,75.5,58.6,Yes
+STU-5139,Computer Science,Female,21.6,83.1,1.0,54.8,74.9,No
+STU-5140,Computer Science,Female,22.1,78.3,0.0,82.5,84.6,Yes
+STU-5141,Data Analytics,Male,15.0,65.2,1.0,58.7,82.0,Yes
+STU-5142,Computer Science,Female,17.0,78.5,0.0,49.4,80.7,Yes
+STU-5143,Biology,Male,15.9,92.7,2.0,70.8,76.4,Yes
+STU-5144,,Female,20.5,85.9,0.0,75.6,86.2,Yes
+STU-5145,Data Analytics,Male,23.8,68.5,2.0,79.4,40.0,Yes
+STU-5146,Computer Science,Male,22.2,94.6,2.0,75.9,66.2,No
+STU-5147,Data Analytics,Female,29.5,83.6,1.0,62.3,74.8,No
+STU-5148,Biology,Male,14.7,94.5,0.0,81.8,85.2,Yes
+STU-5149,Data Analytics,Male,20.7,85.3,0.0,84.6,95.4,Yes
+STU-5150,Data Analytics,Female,12.3,84.6,0.0,60.7,64.5,Yes
+STU-5151,Computer Science,Male,14.5,68.7,0.0,72.0,94.9,Yes
+STU-5152,Biology,Male,27.6,70.9,0.0,71.0,70.1,No
+STU-5153,Finance,Male,17.2,99.0,1.0,76.4,74.3,Yes
+STU-5154,Finance,Female,15.2,,2.0,71.7,83.6,Yes
+STU-5155,Computer Science,Female,7.2,99.2,2.0,73.3,73.4,Yes
+STU-5156,Data Analytics,Male,15.1,83.6,2.0,81.1,90.4,Yes
+STU-5157,Computer Science,Female,18.8,69.8,0.0,61.7,70.7,Yes
+STU-5158,Computer Science,Male,11.9,,0.0,82.1,70.9,Yes
+STU-5159,Computer Science,Male,18.4,72.3,1.0,86.6,89.7,Yes
+STU-5160,Data Analytics,Male,27.6,97.4,0.0,92.0,66.1,Yes
+STU-5161,Biology,Male,15.8,79.5,0.0,50.4,79.2,Yes
+STU-5162,Computer Science,Male,14.3,78.8,1.0,72.0,54.4,Yes
+STU-5163,Data Analytics,Female,13.3,76.0,1.0,52.4,99.7,Yes
+STU-5164,Biology,Male,13.1,70.1,,47.2,91.7,Yes
+STU-5165,Computer Science,Female,23.2,82.1,2.0,75.6,100.0,Yes
+STU-5166,Finance,Female,20.3,69.6,1.0,69.6,93.4,Yes
+STU-5167,Biology,Male,25.7,94.2,0.0,77.3,61.3,Yes
+STU-5168,Computer Science,Male,32.1,78.0,1.0,79.3,84.7,Yes
+STU-5169,Biology,Female,9.0,78.1,2.0,87.7,,No
+STU-5170,Biology,,22.3,81.6,1.0,74.6,96.5,No
+STU-5171,Biology,Female,13.3,80.5,0.0,100.0,61.7,
+STU-5172,Biology,Male,24.7,99.8,0.0,77.4,61.1,No
+STU-5173,Biology,Female,18.4,84.1,2.0,94.3,55.1,Yes
+STU-5174,Biology,Male,20.2,68.1,0.0,48.3,69.7,Yes
+STU-5175,Computer Science,Male,12.3,86.2,0.0,88.8,67.0,Yes
+STU-5176,Finance,Male,17.4,70.3,0.0,72.0,59.6,Yes
+STU-5177,Data Analytics,Female,20.5,66.1,2.0,,100.0,Yes
+STU-5178,Biology,Male,28.1,99.0,1.0,78.6,82.9,Yes
+STU-5179,Data Analytics,Male,15.2,92.1,2.0,70.7,81.4,Yes
+STU-5180,Computer Science,,16.7,,0.0,80.4,96.7,Yes
+STU-5181,Biology,Male,25.7,81.7,2.0,85.1,79.3,Yes
+STU-5182,Finance,Male,14.8,83.6,2.0,57.6,66.3,No
+STU-5183,Data Analytics,Female,26.9,70.9,0.0,85.2,53.9,Yes
+STU-5184,Biology,Male,19.9,73.6,0.0,74.1,65.5,Yes
+STU-5185,Computer Science,Male,21.8,94.3,1.0,88.9,95.6,
+STU-5186,Finance,Female,22.2,77.5,0.0,71.7,,Yes
+STU-5187,Data Analytics,,16.3,93.9,0.0,68.8,80.6,Yes
+STU-5188,Data Analytics,Female,22.3,89.8,0.0,74.3,89.4,Yes
+STU-5189,Biology,Male,15.4,71.2,0.0,,79.7,Yes
+STU-5190,Finance,Female,17.0,82.8,0.0,66.7,81.2,Yes
+STU-5191,Finance,,23.4,88.7,1.0,68.5,84.5,Yes
+STU-5192,Finance,Male,21.8,73.2,1.0,60.5,80.9,Yes
+STU-5193,Finance,Male,19.6,94.1,2.0,69.2,96.9,Yes
+,Computer Science,Male,12.4,84.1,0.0,81.4,62.5,
+STU-5195,Finance,Female,13.9,70.8,0.0,72.5,79.1,Yes
+STU-5196,Data Analytics,Female,21.7,85.4,1.0,85.1,52.4,Yes
+STU-5197,Data Analytics,Female,24.4,100.0,0.0,72.0,49.0,No
+STU-5198,Computer Science,Male,13.3,70.3,1.0,58.3,74.9,No
+STU-5199,Data Analytics,Female,15.0,93.6,0.0,80.6,83.1,No
+STU-5200,Data Analytics,Female,20.8,72.3,0.0,66.6,97.2,Yes
+STU-5201,Finance,Male,20.7,92.4,1.0,71.4,100.0,Yes
+STU-5202,Data Analytics,Female,10.3,90.7,,87.6,93.2,Yes
+STU-5203,Computer Science,Female,21.0,75.5,0.0,61.2,85.5,Yes
+STU-5204,Finance,Male,16.4,76.4,1.0,75.8,78.1,Yes
+STU-5205,Biology,Female,29.8,92.7,0.0,73.6,56.1,Yes
+STU-5206,Finance,Male,,81.2,1.0,81.7,74.1,No
+STU-5207,Computer Science,Male,22.5,90.6,0.0,83.4,92.8,Yes
+STU-5208,Finance,Male,,70.2,2.0,76.9,87.7,No
+STU-5209,Finance,Male,12.7,94.8,0.0,70.0,59.3,Yes
+STU-5210,Computer Science,Male,31.7,89.9,0.0,79.2,84.0,Yes
+STU-5211,Finance,Female,10.3,96.7,0.0,88.7,82.9,Yes
+STU-5212,Computer Science,Female,24.8,69.6,0.0,73.7,80.5,Yes
+STU-5213,Computer Science,Male,23.7,85.8,2.0,71.1,75.6,
+STU-5214,Biology,Male,17.1,86.0,2.0,78.3,84.7,Yes
+STU-5215,,Female,24.0,77.4,0.0,74.4,85.1,Yes
+STU-5216,Data Analytics,Male,18.1,81.0,0.0,59.3,,Yes
+STU-5217,Finance,Male,15.9,66.3,0.0,76.6,81.9,No
+STU-5218,Finance,Male,22.8,91.1,1.0,59.2,73.5,Yes
+STU-5219,Biology,Female,14.0,84.2,0.0,78.1,56.7,No
+STU-5220,Biology,Female,18.7,67.0,1.0,65.2,68.7,Yes
+,Biology,Male,16.4,88.8,0.0,74.4,55.7,Yes
+,Computer Science,Male,18.0,81.3,2.0,78.3,88.7,Yes
+STU-5223,Biology,Female,22.6,66.2,1.0,100.0,80.6,Yes
+STU-5224,Biology,Female,16.4,98.9,2.0,,71.4,Yes
+STU-5225,Finance,Male,18.8,98.2,1.0,89.0,94.5,Yes
+STU-5226,Biology,Male,17.0,83.0,0.0,,76.9,Yes
+STU-5227,Computer Science,Female,28.7,68.3,0.0,79.4,57.4,Yes
+STU-5228,Computer Science,Female,22.1,91.4,0.0,77.1,70.3,Yes
+STU-5229,Finance,Female,21.3,82.2,,62.3,97.2,Yes
+STU-5230,Biology,Male,24.1,75.6,0.0,72.7,67.3,Yes
+STU-5231,Biology,Female,16.4,82.2,2.0,66.0,79.6,Yes
+STU-5232,Computer Science,Male,25.2,83.3,0.0,69.6,,Yes
+STU-5233,Biology,Female,22.1,84.7,1.0,94.6,83.7,Yes
+STU-5234,Biology,,10.6,80.4,0.0,75.3,100.0,Yes
+STU-5235,Biology,Female,11.4,86.2,2.0,64.4,60.7,Yes
+STU-5236,Data Analytics,Female,16.6,97.2,,89.1,62.0,Yes
+STU-5237,Finance,Male,12.1,77.7,2.0,84.5,60.9,Yes
+,Data Analytics,Male,18.6,90.4,0.0,85.1,72.2,Yes
+STU-5239,Finance,Female,13.9,96.3,0.0,51.9,90.3,Yes
+STU-5240,Computer Science,Male,19.4,81.0,1.0,95.4,62.6,
+STU-5241,Biology,Female,28.5,80.5,2.0,67.9,90.5,Yes
+STU-5242,Finance,,19.7,86.1,1.0,,76.5,Yes
+STU-5243,Data Analytics,Female,18.2,85.7,1.0,100.0,61.6,Yes
+STU-5244,Biology,Female,22.3,93.2,0.0,97.7,53.2,Yes
+STU-5245,Computer Science,Male,15.8,81.7,1.0,63.2,56.1,Yes
+STU-5246,Finance,Female,25.1,99.9,0.0,58.1,67.3,Yes
+STU-5247,Finance,Female,23.0,67.1,0.0,89.7,73.8,Yes
+STU-5248,Finance,Male,20.2,65.1,2.0,75.6,,Yes
+STU-5249,Biology,Female,20.9,87.4,1.0,68.5,86.4,Yes
+STU-5250,Data Analytics,Female,32.3,75.4,0.0,80.8,65.1,Yes
+STU-5251,Data Analytics,Female,25.7,73.4,0.0,72.2,81.3,No
+STU-5252,Finance,Male,33.2,75.9,1.0,,97.5,Yes
+STU-5253,Computer Science,Female,23.2,,0.0,74.7,100.0,No
+STU-5254,Computer Science,Male,11.2,66.1,0.0,81.9,71.9,Yes
+STU-5255,Data Analytics,Female,18.4,99.0,0.0,64.2,88.5,No
+STU-5256,Computer Science,Female,9.8,72.7,0.0,89.7,94.1,No
+STU-5257,Data Analytics,Male,23.2,90.7,1.0,81.7,56.4,Yes
+STU-5258,Finance,Female,24.5,91.7,0.0,81.1,69.3,Yes
+STU-5259,Data Analytics,Female,14.7,97.5,0.0,61.7,100.0,Yes
+STU-5260,Data Analytics,Male,16.1,66.1,0.0,92.7,72.1,Yes
+STU-5261,Finance,Male,20.9,95.5,0.0,73.8,40.0,Yes
+STU-5262,Computer Science,Male,12.8,83.5,0.0,82.0,74.4,Yes
+STU-5263,Data Analytics,Male,12.4,87.1,0.0,70.4,90.6,Yes
+STU-5264,Data Analytics,Male,27.4,87.6,2.0,76.9,76.1,Yes
+STU-5265,Finance,Female,20.7,93.7,0.0,77.3,85.3,No
+STU-5266,Computer Science,Male,16.7,76.7,,43.0,88.2,Yes
+STU-5267,Data Analytics,Female,9.8,90.7,2.0,80.4,71.4,Yes
+STU-5268,Finance,,25.1,83.5,2.0,95.6,69.2,Yes
+STU-5269,Data Analytics,Female,15.9,92.8,1.0,79.9,,No
+STU-5270,Biology,Male,31.2,99.7,1.0,63.5,78.3,
+STU-5271,Finance,Male,25.2,72.0,0.0,81.1,,Yes
+STU-5272,Computer Science,Female,15.2,99.8,,85.7,77.2,Yes
+STU-5273,Computer Science,Male,15.7,68.1,0.0,79.6,66.3,Yes
+STU-5274,Computer Science,Male,30.3,65.1,,73.2,85.8,Yes
+STU-5275,Computer Science,Male,19.5,66.5,1.0,71.3,83.8,No
+,Data Analytics,Male,16.9,77.0,1.0,71.3,58.6,Yes
+STU-5277,Data Analytics,Female,20.2,87.2,0.0,81.7,,Yes
+STU-5278,Computer Science,Female,16.9,67.4,0.0,58.5,77.2,No
+STU-5279,Computer Science,Male,21.4,65.2,0.0,69.9,69.1,Yes

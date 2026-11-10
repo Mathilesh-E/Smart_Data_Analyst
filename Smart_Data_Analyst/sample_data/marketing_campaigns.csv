@@ -1,0 +1,301 @@
+CampaignID,Channel,Spend,Impressions,Clicks,Conversions,Revenue,TargetAudience,Region
+CMP-500,Google Ads,3854.74,46269,7096,726,16306.18,Parents,Europe
+CMP-501,Facebook,1354.08,85674,9763,259,915.74,Gen-Z,Asia Pacific
+CMP-502,Facebook,7880.3,47462,12635,536,24028.99,Professionals,Asia Pacific
+CMP-503,Organic,1830.96,139199,13175,574,1592.41,Parents,Europe
+CMP-504,Google Ads,1216.75,28147,2411,116,4005.02,Professionals,Latin America
+CMP-505,Facebook,1787.57,181600,7325,317,843.36,Gen-Z,North America
+CMP-506,TikTok,6198.68,82095,11665,465,14388.03,Professionals,Latin America
+CMP-507,Email,3518.94,249172,10370,712,23340.54,Parents,North America
+CMP-508,Facebook,4610.24,205003,9813,466,16815.71,Gen-Z,Latin America
+CMP-509,Google Ads,363.87,95925,13660,96,20655.11,Millennials,Europe
+CMP-510,Facebook,468.56,71381,704,56,825.39,Parents,Asia Pacific
+CMP-511,Email,3677.44,104468,8275,524,13779.37,Parents,Latin America
+CMP-512,Google Ads,6569.91,247330,12140,102,11759.29,Gen-Z,North America
+CMP-513,Organic,7104.86,68749,11634,240,12724.71,Gen-Z,Asia Pacific
+CMP-514,Google Ads,876.31,174744,5885,378,2269.22,Millennials,North America
+CMP-515,Organic,4399.23,18731,9709,585,17268.67,Parents,Europe
+CMP-516,Google Ads,7323.19,129647,14208,561,12828.9,Gen-Z,Asia Pacific
+CMP-517,Email,3226.19,190584,4697,653,19246.15,Millennials,North America
+CMP-518,Email,6670.61,234730,7859,238,12389.62,Millennials,Latin America
+CMP-519,Google Ads,1242.83,56024,12167,36,4159.85,Gen-Z,Europe
+CMP-520,Facebook,7496.08,121712,7632,293,16382.3,Parents,Europe
+CMP-521,Email,6061.1,106121,11225,642,4723.47,Professionals,Europe
+CMP-522,Organic,7542.41,8832,8840,583,21873.67,Professionals,Latin America
+CMP-523,Organic,5477.61,37332,13753,546,15521.35,Millennials,Latin America
+CMP-524,TikTok,3034.55,17467,938,118,4351.5,Professionals,Asia Pacific
+CMP-525,Organic,7517.81,46025,13818,208,24077.28,Professionals,Latin America
+CMP-526,TikTok,2349.42,149179,13836,33,13199.95,Gen-Z,Asia Pacific
+CMP-527,Google Ads,2790.95,82994,3915,647,2286.01,Millennials,Europe
+CMP-528,Google Ads,5666.31,99202,947,478,15857.41,Parents,Asia Pacific
+CMP-529,Google Ads,6169.47,48481,4809,701,6703.37,Millennials,North America
+CMP-530,Facebook,7449.35,138653,4607,257,20190.49,Gen-Z,Europe
+CMP-531,Facebook,1797.46,80118,6675,390,20536.64,Professionals,Europe
+CMP-532,TikTok,6424.38,129010,4873,66,24484.21,Parents,Asia Pacific
+CMP-533,Organic,5960.66,187710,12546,519,12795.8,Millennials,Europe
+CMP-534,Organic,697.6,128714,14449,434,11646.44,Professionals,Latin America
+CMP-535,Google Ads,3220.34,144490,4568,584,18960.15,Millennials,North America
+CMP-536,Email,2405.57,229699,10564,541,3745.53,Parents,Asia Pacific
+CMP-537,Facebook,2575.03,165185,5292,695,13899.43,Millennials,Asia Pacific
+CMP-538,Facebook,7866.99,89363,3420,145,13883.07,Millennials,Europe
+CMP-539,Google Ads,5213.66,128607,10850,747,2692.09,Millennials,Latin America
+CMP-540,Facebook,5797.87,68044,4798,304,10740.61,Professionals,Europe
+CMP-541,Google Ads,7817.62,216027,4411,679,21405.48,Parents,Europe
+CMP-542,TikTok,3142.17,197102,10288,315,21475.76,Parents,Asia Pacific
+CMP-543,Organic,6454.35,16814,3773,475,2931.32,Professionals,Europe
+CMP-544,Email,3589.34,104340,1664,397,2722.66,Professionals,North America
+CMP-545,Organic,6982.36,15024,12310,646,6936.04,Professionals,Europe
+CMP-546,Organic,1609.13,199360,1940,449,21931.77,Gen-Z,Europe
+CMP-547,TikTok,7591.95,114236,6158,762,3658.11,Millennials,Asia Pacific
+CMP-548,Facebook,1906.42,62836,7231,176,18139.92,Millennials,Europe
+CMP-549,Email,2744.52,12435,11583,580,2978.56,Parents,Latin America
+CMP-550,Facebook,6098.3,203156,11179,35,15766.88,Millennials,Asia Pacific
+CMP-551,Organic,3271.29,75601,826,51,9223.65,Gen-Z,Europe
+CMP-552,Google Ads,4944.05,224488,9536,134,19828.39,Professionals,North America
+CMP-553,Organic,3667.67,125871,11752,356,6225.42,Parents,North America
+CMP-554,Facebook,5990.49,139479,6797,626,16160.44,Parents,Asia Pacific
+CMP-555,Organic,1980.98,103943,12010,585,6274.22,Millennials,Asia Pacific
+CMP-556,Google Ads,655.97,37940,9357,62,17984.68,Parents,Europe
+CMP-557,TikTok,2539.45,10666,13063,110,21905.11,Professionals,Latin America
+CMP-558,Facebook,3899.61,42122,382,334,3606.64,Parents,Europe
+CMP-559,Organic,1510.56,123647,1181,772,21731.59,Professionals,North America
+CMP-560,Facebook,2967.42,161164,3985,687,15042.59,Gen-Z,Latin America
+CMP-561,TikTok,3319.87,134753,2981,387,3614.21,Gen-Z,Latin America
+CMP-562,Organic,647.66,128402,10876,166,10974.78,Professionals,Latin America
+CMP-563,Organic,4749.8,211717,14296,290,4441.08,Millennials,Europe
+CMP-564,Facebook,7097.88,106190,3070,75,17658.52,Parents,North America
+CMP-565,Facebook,1383.59,105468,9444,771,19092.27,Millennials,Asia Pacific
+CMP-566,Google Ads,4862.9,134207,7085,458,3092.01,Parents,Europe
+CMP-567,TikTok,5384.97,31505,11789,571,12900.43,Gen-Z,Asia Pacific
+CMP-568,Google Ads,3470.81,41713,1047,401,20458.31,Gen-Z,Latin America
+CMP-569,Organic,5668.56,190459,4860,519,23435.99,Gen-Z,Latin America
+CMP-570,Facebook,3403.71,48169,10009,30,13081.19,Parents,Europe
+CMP-571,Organic,4136.17,209354,13536,317,23781.84,Gen-Z,North America
+CMP-572,Organic,257.35,82511,166,130,13624.38,Gen-Z,Latin America
+CMP-573,Email,5595.42,187814,14441,412,10157.67,Gen-Z,Asia Pacific
+CMP-574,Email,5358.47,45522,8928,569,21280.98,Gen-Z,Asia Pacific
+CMP-575,Organic,499.53,217204,8605,202,12578.08,Millennials,Europe
+CMP-576,Facebook,3072.35,239561,11689,192,12061.61,Gen-Z,Asia Pacific
+CMP-577,Organic,7836.45,104397,664,702,12512.66,Gen-Z,North America
+CMP-578,Email,3481.75,8880,9893,720,21246.23,Millennials,Latin America
+CMP-579,Facebook,4115.17,179526,9117,488,20882.57,Millennials,Asia Pacific
+CMP-580,Organic,7297.46,191783,14941,454,10386.24,Parents,Asia Pacific
+CMP-581,TikTok,5794.64,48539,13493,527,8665.85,Professionals,Latin America
+CMP-582,TikTok,4740.15,245056,3770,358,12552.24,Gen-Z,Europe
+CMP-583,Organic,6422.88,204393,9317,662,14532.93,Gen-Z,Asia Pacific
+CMP-584,Facebook,6942.06,224057,2351,601,6339.26,Gen-Z,Europe
+CMP-585,Organic,3763.73,19799,13049,104,19951.9,Parents,Europe
+CMP-586,Organic,3905.85,109843,904,620,12418.83,Gen-Z,Asia Pacific
+CMP-587,Email,3211.2,196174,10743,562,8684.12,Professionals,North America
+CMP-588,TikTok,7740.31,186798,4731,560,3117.11,Millennials,Europe
+CMP-589,Email,5637.9,53784,9683,282,6351.71,Parents,Asia Pacific
+CMP-590,Email,849.14,118034,1335,697,23757.39,Millennials,Europe
+CMP-591,Organic,6931.09,179405,6820,703,7974.94,Gen-Z,Latin America
+CMP-592,Email,3948.37,176900,12324,630,4637.05,Gen-Z,North America
+CMP-593,TikTok,736.28,205598,11572,495,11786.48,Gen-Z,North America
+CMP-594,Email,4487.79,59362,7006,259,8023.65,Professionals,Latin America
+CMP-595,TikTok,3453.88,58997,6116,385,1361.4,Professionals,Latin America
+CMP-596,Email,7046.45,186413,14552,546,8417.06,Parents,Europe
+CMP-597,TikTok,1791.16,155145,13015,268,13830.66,Millennials,Latin America
+CMP-598,Email,6646.42,107399,13136,614,14016.95,Gen-Z,North America
+CMP-599,Email,4549.97,19549,3649,333,9235.69,Gen-Z,Latin America
+CMP-600,Facebook,625.96,219867,12492,119,11458.92,Gen-Z,Asia Pacific
+CMP-601,TikTok,7780.39,61920,14930,280,24155.19,Gen-Z,Asia Pacific
+CMP-602,TikTok,4198.4,221398,8038,492,9745.04,Professionals,Europe
+CMP-603,TikTok,2468.84,211587,4241,285,6826.56,Millennials,North America
+CMP-604,Google Ads,3861.37,156388,7066,279,6464.94,Millennials,Asia Pacific
+CMP-605,Email,6891.29,162255,9646,777,11715.23,Parents,Latin America
+CMP-606,TikTok,2578.24,98860,5435,723,19108.24,Professionals,Asia Pacific
+CMP-607,Google Ads,1702.88,29624,5177,332,5546.71,Gen-Z,Asia Pacific
+CMP-608,Facebook,1206.76,198587,13347,215,17877.76,Millennials,Europe
+CMP-609,TikTok,2523.3,239784,5711,731,1018.17,Millennials,Latin America
+CMP-610,TikTok,6284.38,221853,10128,556,10763.86,Professionals,Latin America
+CMP-611,Google Ads,3878.69,51705,8189,30,19508.69,Parents,Latin America
+CMP-612,Email,1974.36,94326,2992,31,8798.96,Parents,Europe
+CMP-613,Facebook,1496.24,162828,10788,706,14311.56,Gen-Z,Latin America
+CMP-614,TikTok,2795.29,65390,10875,87,5521.99,Parents,Latin America
+CMP-615,Email,7531.41,73369,10850,686,18678.89,Millennials,Asia Pacific
+CMP-616,Facebook,2875.61,206893,5677,417,1780.84,Parents,Asia Pacific
+CMP-617,Organic,7907.37,14589,3718,171,21387.29,Gen-Z,Latin America
+CMP-618,Organic,3984.8,118012,1659,704,5355.81,Millennials,North America
+CMP-619,Facebook,1597.48,150188,6783,173,21922.75,Parents,North America
+CMP-620,Google Ads,7150.89,78181,1607,233,9136.97,Parents,Latin America
+CMP-621,Facebook,3790.77,180858,12363,613,18205.75,Professionals,North America
+CMP-622,Facebook,5735.44,230758,2163,371,8321.02,Gen-Z,Europe
+CMP-623,Google Ads,7872.95,128711,3742,532,22694.84,Parents,Asia Pacific
+CMP-624,Google Ads,591.37,81425,2100,795,3602.61,Professionals,Europe
+CMP-625,Email,954.22,166358,14678,651,4873.73,Millennials,Asia Pacific
+CMP-626,Email,5819.56,239153,14361,542,12579.24,Professionals,North America
+CMP-627,Google Ads,2398.24,20994,13299,528,2507.49,Professionals,North America
+CMP-628,Organic,1637.55,237111,1394,76,5301.51,Parents,Latin America
+CMP-629,Organic,507.02,116915,4165,649,23622.28,Parents,North America
+CMP-630,Facebook,370.4,127961,14190,110,24424.0,Parents,North America
+CMP-631,TikTok,6240.99,226270,11044,736,9718.35,Professionals,Latin America
+CMP-632,Facebook,1248.58,109672,8114,693,23120.51,Millennials,Latin America
+CMP-633,Facebook,3848.22,31639,10045,286,13848.2,Gen-Z,Asia Pacific
+CMP-634,TikTok,4926.0,22205,12502,137,7108.69,Professionals,North America
+CMP-635,Google Ads,3541.14,61677,1703,538,17708.77,Parents,Asia Pacific
+CMP-636,Organic,411.43,37930,1422,273,16643.09,Gen-Z,Asia Pacific
+CMP-637,Facebook,6311.31,78313,6056,416,24733.57,Millennials,Europe
+CMP-638,TikTok,282.0,229923,14832,677,6993.66,Gen-Z,North America
+CMP-639,Email,6142.74,118153,2541,623,16965.46,Parents,North America
+CMP-640,Facebook,7167.78,228581,1198,795,1774.58,Professionals,Europe
+CMP-641,Organic,3576.15,23316,5173,751,3284.33,Professionals,Asia Pacific
+CMP-642,Google Ads,4377.23,163376,9797,22,596.0,Parents,North America
+CMP-643,Facebook,3920.47,237911,9418,758,24986.79,Professionals,Asia Pacific
+CMP-644,Facebook,3235.83,101058,8588,121,20155.71,Parents,Europe
+CMP-645,TikTok,7121.91,92876,11341,798,19774.71,Professionals,Latin America
+CMP-646,Email,7172.68,90366,10517,148,12988.29,Professionals,Asia Pacific
+CMP-647,Email,2819.37,18403,14750,721,7851.64,Professionals,North America
+CMP-648,Google Ads,4997.54,85052,13450,555,4205.97,Millennials,Latin America
+CMP-649,Organic,7429.88,220699,12646,670,7474.53,Millennials,Asia Pacific
+CMP-650,Google Ads,7704.06,78495,3887,692,9711.29,Parents,Asia Pacific
+CMP-651,Facebook,4169.88,168004,14442,757,19029.6,Millennials,Latin America
+CMP-652,Facebook,3732.03,101090,2196,426,13721.71,Parents,Latin America
+CMP-653,Email,2373.82,41701,11901,373,2398.35,Gen-Z,Latin America
+CMP-654,Organic,7679.2,139457,2308,650,941.71,Gen-Z,North America
+CMP-655,TikTok,1313.95,235298,6088,562,3007.14,Millennials,North America
+CMP-656,Organic,4722.67,62241,275,54,10557.22,Gen-Z,Asia Pacific
+CMP-657,Facebook,2403.89,146439,7269,682,23363.23,Gen-Z,Asia Pacific
+CMP-658,TikTok,2376.26,70030,13388,110,16116.36,Professionals,Europe
+CMP-659,Organic,3358.75,182577,6114,220,20144.73,Professionals,North America
+CMP-660,Organic,7990.58,169404,10794,662,11926.18,Parents,Asia Pacific
+CMP-661,TikTok,628.74,221250,12291,429,9360.82,Gen-Z,Latin America
+CMP-662,Facebook,4712.63,212397,1767,76,3155.81,Parents,Latin America
+CMP-663,Organic,844.06,171340,12663,789,21960.36,Parents,North America
+CMP-664,TikTok,1405.26,222558,10837,763,19687.42,Gen-Z,Latin America
+CMP-665,Facebook,3628.59,161635,8967,450,4618.89,Millennials,Europe
+CMP-666,TikTok,4181.59,110185,1923,190,13050.38,Gen-Z,Asia Pacific
+CMP-667,TikTok,2218.58,41404,5247,74,12440.68,Professionals,Asia Pacific
+CMP-668,Organic,2668.37,60182,1456,154,15814.74,Gen-Z,Asia Pacific
+CMP-669,Facebook,878.34,37991,3172,250,23681.58,Millennials,North America
+CMP-670,Organic,2565.11,109601,3359,778,14704.4,Parents,Latin America
+CMP-671,Google Ads,7739.16,183735,6299,542,13735.32,Parents,Europe
+CMP-672,Google Ads,7568.72,70886,646,656,1732.91,Professionals,North America
+CMP-673,Facebook,2812.05,127002,5331,103,2041.23,Professionals,Asia Pacific
+CMP-674,TikTok,4652.66,88848,8065,282,5090.0,Professionals,Europe
+CMP-675,Organic,7294.84,160199,2183,567,1295.53,Parents,Asia Pacific
+CMP-676,Organic,248.23,62692,2140,667,18712.15,Professionals,Asia Pacific
+CMP-677,Facebook,6523.33,230461,4634,459,18221.59,Gen-Z,North America
+CMP-678,Facebook,7597.28,42500,1852,108,3833.38,Parents,Asia Pacific
+CMP-679,Google Ads,912.34,38785,9907,605,20983.93,Millennials,Europe
+CMP-680,Email,1459.29,89146,1949,657,4292.26,Parents,Asia Pacific
+CMP-681,Facebook,7693.82,225198,2742,729,7878.8,Gen-Z,Latin America
+CMP-682,Email,4392.81,231051,1700,237,6599.93,Gen-Z,Asia Pacific
+CMP-683,Facebook,310.73,52997,11688,398,9621.52,Professionals,North America
+CMP-684,TikTok,2209.53,12170,14051,505,6739.26,Parents,Europe
+CMP-685,TikTok,3709.56,149375,4502,699,12479.3,Parents,North America
+CMP-686,Google Ads,5604.69,76743,11897,255,10481.49,Parents,Latin America
+CMP-687,Google Ads,5918.65,213924,3899,525,24670.95,Millennials,Asia Pacific
+CMP-688,Email,7964.29,40187,718,83,1870.2,Professionals,North America
+CMP-689,Facebook,2442.59,201106,1232,56,3983.44,Gen-Z,North America
+CMP-690,Organic,4398.12,207848,5591,785,1794.23,Gen-Z,North America
+CMP-691,Google Ads,4359.92,137965,14792,230,15833.11,Professionals,North America
+CMP-692,Organic,3364.03,149825,14616,55,1835.48,Gen-Z,Latin America
+CMP-693,Organic,1519.46,43090,13767,190,20992.77,Gen-Z,Latin America
+CMP-694,Facebook,7824.16,200994,5895,38,13042.5,Professionals,Asia Pacific
+CMP-695,Email,6855.87,212840,10407,746,13411.69,Gen-Z,Asia Pacific
+CMP-696,Facebook,4087.0,64412,10631,135,14259.07,Parents,Europe
+CMP-697,Google Ads,4905.31,61030,11031,636,4684.94,Millennials,Latin America
+CMP-698,Organic,1972.64,22509,12568,447,5343.41,Professionals,North America
+CMP-699,Facebook,4441.54,73653,7733,763,8311.02,Millennials,North America
+CMP-700,Facebook,5620.77,173001,14869,436,15040.66,Gen-Z,Europe
+CMP-701,Facebook,4218.3,134626,1587,708,5647.89,Gen-Z,North America
+CMP-702,Google Ads,7924.22,184363,7948,501,3350.13,Parents,Europe
+CMP-703,Email,4968.46,9042,5109,407,24267.86,Professionals,Asia Pacific
+CMP-704,Facebook,3093.59,198646,9849,327,1038.55,Gen-Z,Latin America
+CMP-705,Google Ads,6222.79,42201,2213,214,20166.09,Professionals,Europe
+CMP-706,Organic,1529.61,228354,1144,619,19806.86,Professionals,North America
+CMP-707,TikTok,3199.22,19016,14023,333,7781.75,Professionals,Europe
+CMP-708,Google Ads,2906.28,30022,2531,376,3822.85,Professionals,Asia Pacific
+CMP-709,TikTok,3568.1,237034,8079,464,4067.9,Professionals,North America
+CMP-710,Facebook,6297.88,32938,14026,137,17587.07,Millennials,Asia Pacific
+CMP-711,Facebook,3976.55,179750,1682,655,16248.76,Parents,Asia Pacific
+CMP-712,Google Ads,6393.31,123171,14474,125,19677.27,Professionals,Europe
+CMP-713,TikTok,4696.61,237320,1408,610,23468.29,Millennials,Asia Pacific
+CMP-714,Facebook,2868.14,66720,5017,456,17452.22,Gen-Z,North America
+CMP-715,Organic,6517.83,110514,8893,133,4318.36,Professionals,Asia Pacific
+CMP-716,Email,2058.66,192877,1720,95,6464.34,Gen-Z,Asia Pacific
+CMP-717,Email,1950.19,210395,13172,608,21133.75,Professionals,Europe
+CMP-718,Facebook,4135.12,138058,7603,579,5628.0,Millennials,Asia Pacific
+CMP-719,TikTok,2234.62,81478,13599,33,2276.8,Millennials,Latin America
+CMP-720,Facebook,270.88,219066,4866,726,17730.36,Millennials,Europe
+CMP-721,TikTok,5256.72,148233,5462,528,10361.9,Parents,Europe
+CMP-722,Organic,4186.53,156761,5292,337,23040.98,Gen-Z,North America
+CMP-723,TikTok,3675.04,132101,6722,301,16431.25,Parents,North America
+CMP-724,Facebook,7742.35,99699,6193,134,2715.26,Professionals,North America
+CMP-725,Organic,4655.35,196996,6804,297,23722.49,Gen-Z,North America
+CMP-726,Google Ads,6934.77,237383,200,177,6834.65,Millennials,Latin America
+CMP-727,Email,1287.71,104273,6757,724,8761.71,Gen-Z,Europe
+CMP-728,Facebook,4639.81,210380,5975,28,10355.38,Millennials,Asia Pacific
+CMP-729,Facebook,6970.24,237200,4371,103,1755.0,Parents,North America
+CMP-730,Facebook,4748.22,68745,337,410,12664.63,Parents,North America
+CMP-731,Organic,5800.51,137283,7326,360,3521.3,Millennials,North America
+CMP-732,Google Ads,3101.94,136301,8132,143,10323.77,Millennials,Asia Pacific
+CMP-733,TikTok,921.11,123972,5318,507,9092.39,Professionals,North America
+CMP-734,Google Ads,3771.62,184614,4125,178,19434.58,Parents,Asia Pacific
+CMP-735,Organic,3276.94,150417,11210,33,20177.68,Parents,Europe
+CMP-736,Facebook,6963.07,106489,6173,500,4258.62,Professionals,Europe
+CMP-737,Email,2103.16,36819,2642,659,9480.5,Parents,Europe
+CMP-738,Facebook,7740.53,52779,10295,355,9647.15,Millennials,Latin America
+CMP-739,TikTok,7673.48,218493,1637,558,4209.56,Gen-Z,Asia Pacific
+CMP-740,Email,2131.53,97244,854,303,20062.11,Gen-Z,North America
+CMP-741,Facebook,2914.81,70584,11660,724,17827.09,Parents,North America
+CMP-742,Email,7185.33,156022,10550,196,5164.35,Professionals,North America
+CMP-743,Google Ads,7739.65,151245,13534,676,9484.69,Millennials,North America
+CMP-744,Organic,3658.83,63032,7496,68,3092.22,Gen-Z,Latin America
+CMP-745,Facebook,2703.78,120074,11957,759,15891.06,Millennials,North America
+CMP-746,TikTok,4303.53,104273,7923,774,3473.61,Parents,Latin America
+CMP-747,Google Ads,5564.6,33036,5607,668,24655.39,Parents,Asia Pacific
+CMP-748,Facebook,2333.1,248929,4335,219,19626.71,Gen-Z,Europe
+CMP-749,Google Ads,5944.49,76356,640,170,10060.84,Parents,North America
+CMP-750,TikTok,602.93,150364,5610,547,14674.82,Professionals,Europe
+CMP-751,Facebook,584.5,8052,8561,236,22827.87,Parents,Asia Pacific
+CMP-752,TikTok,3213.04,49377,8026,798,14075.43,Parents,Asia Pacific
+CMP-753,Email,2957.09,225389,5231,545,4775.21,Parents,North America
+CMP-754,TikTok,2661.94,203910,14278,199,9778.23,Millennials,Asia Pacific
+CMP-755,Email,4029.95,72819,11752,510,21157.05,Millennials,Europe
+CMP-756,Facebook,2701.72,118689,11700,338,16283.22,Gen-Z,North America
+CMP-757,Email,1699.61,244175,8797,772,16442.75,Gen-Z,Latin America
+CMP-758,Facebook,2613.86,151692,1229,797,21737.13,Gen-Z,North America
+CMP-759,Facebook,7804.25,35461,10371,308,22402.34,Parents,Europe
+CMP-760,Organic,3406.68,25750,3245,441,23034.92,Millennials,North America
+CMP-761,Facebook,3668.76,234498,11534,327,2823.81,Professionals,North America
+CMP-762,Email,4697.05,224791,14260,506,13831.09,Parents,Europe
+CMP-763,Organic,7870.06,14472,13480,397,18642.48,Parents,North America
+CMP-764,Organic,2084.49,74263,13200,603,19044.71,Parents,North America
+CMP-765,Facebook,5514.0,117036,8653,153,15364.55,Professionals,Europe
+CMP-766,TikTok,5784.68,193674,3820,765,4586.29,Gen-Z,Asia Pacific
+CMP-767,TikTok,4937.13,30523,9748,409,20036.8,Professionals,Europe
+CMP-768,Organic,890.91,166838,13316,287,18142.73,Gen-Z,North America
+CMP-769,Facebook,5479.6,108262,4167,366,2610.33,Professionals,Latin America
+CMP-770,TikTok,699.94,71060,4295,383,11863.34,Millennials,Latin America
+CMP-771,Facebook,4849.91,14079,9973,202,4762.45,Parents,Europe
+CMP-772,Facebook,5968.73,144471,14444,560,8768.19,Parents,Latin America
+CMP-773,Organic,1845.57,65726,9344,360,942.99,Parents,North America
+CMP-774,Organic,6764.65,97906,7381,544,10308.08,Gen-Z,North America
+CMP-775,Google Ads,436.76,21532,2609,433,13971.98,Professionals,Europe
+CMP-776,TikTok,6781.74,127689,5116,21,15679.77,Millennials,North America
+CMP-777,TikTok,3790.57,218429,6633,643,16755.51,Professionals,Asia Pacific
+CMP-778,TikTok,1897.19,48162,4827,383,20989.14,Parents,North America
+CMP-779,Email,1243.47,139821,781,684,5778.84,Millennials,Europe
+CMP-780,Facebook,7635.8,16353,14592,510,3451.8,Millennials,Asia Pacific
+CMP-781,Organic,766.79,117313,14770,760,21362.66,Parents,Asia Pacific
+CMP-782,TikTok,1752.93,33477,4032,80,4337.01,Professionals,Latin America
+CMP-783,Google Ads,2913.01,160642,14695,235,24381.62,Parents,North America
+CMP-784,TikTok,5037.83,91373,10421,720,21142.19,Professionals,Europe
+CMP-785,Facebook,4449.45,147509,13141,252,12771.48,Millennials,Latin America
+CMP-786,Facebook,1180.02,174176,5660,306,24544.82,Millennials,Latin America
+CMP-787,Organic,2459.88,199442,4116,730,2885.73,Parents,North America
+CMP-788,Email,2062.26,9551,7439,219,7925.11,Millennials,North America
+CMP-789,Organic,1865.63,73359,11594,162,16136.5,Gen-Z,Europe
+CMP-790,TikTok,3406.93,190952,819,73,9075.17,Millennials,Latin America
+CMP-791,Google Ads,5691.45,148988,174,397,23245.13,Gen-Z,Europe
+CMP-792,Organic,1896.13,131150,9585,89,2107.84,Millennials,Latin America
+CMP-793,Email,3060.1,216775,10214,271,13960.59,Parents,Latin America
+CMP-794,Organic,3249.16,177517,4257,73,14976.22,Parents,Latin America
+CMP-795,Facebook,7816.36,52636,13261,615,16491.84,Gen-Z,North America
+CMP-796,TikTok,7646.4,209999,8611,351,6763.82,Parents,Latin America
+CMP-797,TikTok,6441.07,214266,2249,732,9431.88,Millennials,Latin America
+CMP-798,TikTok,2084.94,34685,9744,677,21170.17,Millennials,Latin America
+CMP-799,TikTok,730.69,56134,13261,427,5276.1,Parents,Asia Pacific

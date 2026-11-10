@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+reports/*.pdf
+reports/*.xlsx
+reports/*.csv
+.venv/
+venv/
+.env
+

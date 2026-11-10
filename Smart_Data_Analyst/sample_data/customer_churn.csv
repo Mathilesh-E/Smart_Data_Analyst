@@ -1,0 +1,401 @@
+CustomerID,Gender,Age,TenureMonths,Contract,MonthlyCharges,TotalCharges,TechSupport,InternetService,Churn
+CUST-1000,Male,60,28,One year,93.13,2847.53,Yes,DSL,Yes
+CUST-1001,Female,64,41,Month-to-month,89.73,4662.95,Yes,DSL,Yes
+CUST-1002,Male,48,47,Two year,95.26,5498.3,No,Fiber optic,Yes
+CUST-1003,Female,44,18,One year,66.51,1215.92,No,Fiber optic,No
+CUST-1004,Male,28,71,Month-to-month,107.42,5541.97,Yes,DSL,No
+CUST-1005,Female,66,13,Two year,40.34,4204.19,No,No,No
+CUST-1006,Female,66,13,One year,32.74,3703.55,No,DSL,No
+CUST-1007,Male,55,31,One year,48.55,1279.06,No,Fiber optic,No
+CUST-1008,Male,22,2,Two year,73.16,427.6,No,Fiber optic,Yes
+CUST-1009,Male,25,16,Two year,71.06,3453.94,No,No,Yes
+CUST-1010,Male,51,9,Month-to-month,102.06,3943.94,No,DSL,Yes
+CUST-1011,Male,65,38,Month-to-month,60.46,1343.61,No,DSL,No
+CUST-1012,Female,69,54,One year,68.43,3383.09,No,DSL,Yes
+CUST-1013,Male,29,56,Two year,21.34,5153.31,Yes,Fiber optic,No
+CUST-1014,Male,55,45,Two year,60.97,5026.89,No,DSL,No
+CUST-1015,Female,18,34,Two year,84.78,5571.4,Yes,No,No
+CUST-1016,Female,48,9,One year,21.55,2258.73,No,Fiber optic,Yes
+CUST-1017,Male,21,8,Two year,48.09,1976.49,No,Fiber optic,No
+CUST-1018,Female,66,7,Two year,40.8,4521.61,No,DSL,No
+CUST-1019,Female,62,36,One year,24.2,2643.56,No,No,No
+CUST-1020,Male,67,18,Month-to-month,67.93,616.54,Yes,Fiber optic,No
+CUST-1021,Female,22,3,Month-to-month,38.17,1768.53,Yes,Fiber optic,Yes
+CUST-1022,Female,47,28,One year,94.31,2569.64,No,DSL,Yes
+CUST-1023,Male,41,70,Two year,104.79,1825.85,Yes,DSL,No
+CUST-1024,Male,20,44,One year,74.56,2060.01,No,No,No
+CUST-1025,Female,28,21,Month-to-month,118.17,1833.28,No,DSL,No
+CUST-1026,Female,62,28,Month-to-month,65.05,344.85,Yes,No,No
+CUST-1027,Male,21,54,One year,71.34,3858.86,Yes,Fiber optic,No
+CUST-1028,Female,43,54,One year,118.92,3624.03,No,No,No
+CUST-1029,Female,44,65,Month-to-month,43.15,3954.96,No,No,No
+CUST-1030,Female,63,21,One year,114.25,1234.63,Yes,No,No
+CUST-1031,Male,60,13,Month-to-month,24.28,1844.36,No,Fiber optic,No
+CUST-1032,Female,44,57,One year,64.64,3755.73,Yes,DSL,No
+CUST-1033,Female,59,49,One year,27.0,3637.8,No,Fiber optic,Yes
+CUST-1034,Male,68,54,One year,92.92,3087.35,No,DSL,Yes
+CUST-1035,Female,67,10,Month-to-month,80.84,2167.44,Yes,No,No
+CUST-1036,Female,23,53,One year,90.66,5486.29,Yes,No,Yes
+CUST-1037,Male,32,44,Month-to-month,57.45,2104.64,Yes,No,Yes
+CUST-1038,Male,47,47,Month-to-month,56.95,2788.15,No,No,Yes
+CUST-1039,Male,59,53,One year,24.53,4100.87,No,No,No
+CUST-1040,Male,54,46,One year,54.99,3303.83,No,DSL,No
+CUST-1041,Female,54,13,Month-to-month,112.93,2146.63,No,DSL,No
+CUST-1042,Female,59,37,Month-to-month,57.92,2670.3,Yes,No,Yes
+CUST-1043,Male,54,24,Two year,103.14,4787.44,No,Fiber optic,No
+CUST-1044,Male,52,2,Month-to-month,104.23,1740.96,No,Fiber optic,No
+CUST-1045,Female,40,14,Two year,57.32,939.31,No,No,No
+CUST-1046,Male,23,10,Two year,83.2,1947.66,Yes,DSL,No
+CUST-1047,Female,21,35,Two year,29.54,5112.25,No,Fiber optic,Yes
+CUST-1048,Male,35,25,One year,30.37,625.04,No,Fiber optic,No
+CUST-1049,Female,26,3,One year,24.87,5951.01,Yes,Fiber optic,No
+CUST-1050,Male,66,17,Month-to-month,78.1,3291.92,No,No,No
+CUST-1051,Male,46,12,Two year,62.61,5910.59,No,Fiber optic,No
+CUST-1052,Female,30,54,One year,74.8,5640.08,Yes,Fiber optic,No
+CUST-1053,Male,64,24,One year,72.11,2771.6,No,Fiber optic,No
+CUST-1054,Female,69,29,One year,55.02,1271.1,No,Fiber optic,No
+CUST-1055,Female,34,43,One year,87.75,1072.82,No,DSL,No
+CUST-1056,Female,62,25,One year,95.85,1515.94,Yes,No,No
+CUST-1057,Female,49,60,Two year,21.46,4289.78,No,No,Yes
+CUST-1058,Female,65,65,Two year,40.72,1710.4,No,DSL,No
+CUST-1059,Male,39,28,Two year,91.32,2114.41,Yes,DSL,No
+CUST-1060,Male,21,16,Two year,58.66,2747.79,Yes,No,No
+CUST-1061,Female,22,47,Month-to-month,86.25,5488.07,No,Fiber optic,Yes
+CUST-1062,Male,54,58,Two year,54.7,1217.42,No,Fiber optic,No
+CUST-1063,Female,58,27,One year,59.08,129.66,No,No,No
+CUST-1064,Male,66,53,Two year,35.87,454.57,No,Fiber optic,No
+CUST-1065,Male,30,42,Month-to-month,45.82,5438.12,Yes,DSL,No
+CUST-1066,Male,51,59,One year,80.54,3920.35,No,Fiber optic,No
+CUST-1067,Male,62,47,Two year,63.32,1710.94,Yes,Fiber optic,Yes
+CUST-1068,Female,39,34,Two year,97.43,1145.44,Yes,Fiber optic,No
+CUST-1069,Female,40,37,Two year,105.26,1836.17,No,No,Yes
+CUST-1070,Male,68,6,One year,74.16,777.3,No,DSL,Yes
+CUST-1071,Male,20,7,One year,95.83,5655.04,Yes,Fiber optic,No
+CUST-1072,Female,59,25,Month-to-month,50.69,4726.82,Yes,No,No
+CUST-1073,Male,51,33,One year,61.5,2828.11,No,Fiber optic,No
+CUST-1074,Female,49,55,One year,91.28,5203.28,Yes,DSL,No
+CUST-1075,Female,62,58,Two year,58.62,1571.8,No,Fiber optic,No
+CUST-1076,Female,68,7,One year,78.85,4331.01,No,DSL,No
+CUST-1077,Male,66,57,Two year,38.54,5151.18,Yes,Fiber optic,Yes
+CUST-1078,Female,38,12,Two year,79.98,2204.94,Yes,DSL,No
+CUST-1079,Male,63,16,One year,106.15,4569.04,No,Fiber optic,No
+CUST-1080,Female,61,43,Month-to-month,106.86,1840.93,Yes,DSL,No
+CUST-1081,Male,38,7,Month-to-month,92.43,1863.26,No,Fiber optic,Yes
+CUST-1082,Male,61,51,One year,94.58,731.64,No,Fiber optic,No
+CUST-1083,Male,28,32,Month-to-month,75.79,2696.34,No,No,Yes
+CUST-1084,Female,56,8,Two year,78.47,4405.3,Yes,No,Yes
+CUST-1085,Female,21,45,Two year,33.37,5647.3,No,DSL,No
+CUST-1086,Male,68,59,One year,64.39,3662.4,No,Fiber optic,No
+CUST-1087,Male,18,4,Month-to-month,65.08,5192.5,No,DSL,No
+CUST-1088,Male,45,67,Month-to-month,115.85,4952.72,No,No,No
+CUST-1089,Female,41,29,Two year,63.11,1122.72,No,DSL,No
+CUST-1090,Female,52,29,One year,74.93,2966.32,No,DSL,No
+CUST-1091,Female,30,28,Month-to-month,73.33,789.85,No,No,No
+CUST-1092,Female,64,44,One year,83.68,4124.7,No,Fiber optic,Yes
+CUST-1093,Male,51,4,Month-to-month,94.82,5704.41,No,DSL,No
+CUST-1094,Male,28,9,Two year,42.5,908.83,No,No,No
+CUST-1095,Female,53,5,Two year,72.87,4429.91,No,Fiber optic,No
+CUST-1096,Female,68,56,One year,102.59,3830.21,Yes,No,No
+CUST-1097,Male,34,50,Two year,66.31,3543.27,No,DSL,No
+CUST-1098,Female,52,15,Month-to-month,47.85,2401.71,No,Fiber optic,No
+CUST-1099,Female,35,32,Two year,85.47,2195.28,No,Fiber optic,No
+CUST-1100,Female,57,28,One year,102.38,366.97,Yes,No,Yes
+CUST-1101,Female,39,22,One year,26.31,1385.66,No,No,No
+CUST-1102,Female,41,17,One year,97.68,189.54,Yes,No,No
+CUST-1103,Female,36,59,Month-to-month,102.16,3530.36,No,Fiber optic,No
+CUST-1104,Male,54,71,Month-to-month,66.15,724.53,No,Fiber optic,Yes
+CUST-1105,Female,56,57,Month-to-month,118.33,5250.81,Yes,DSL,No
+CUST-1106,Female,38,26,Month-to-month,98.67,3186.54,No,Fiber optic,No
+CUST-1107,Male,25,25,Month-to-month,97.37,4228.17,Yes,DSL,No
+CUST-1108,Male,45,10,Two year,94.78,2524.06,Yes,No,No
+CUST-1109,Male,22,45,Month-to-month,35.06,3407.42,No,No,No
+CUST-1110,Female,34,11,Month-to-month,41.72,5661.69,No,Fiber optic,No
+CUST-1111,Male,54,53,Two year,66.4,588.13,No,No,No
+CUST-1112,Female,53,68,Month-to-month,46.4,1598.23,No,No,No
+CUST-1113,Female,36,28,One year,61.52,4701.93,Yes,Fiber optic,Yes
+CUST-1114,Female,44,65,Month-to-month,108.85,682.55,Yes,DSL,No
+CUST-1115,Male,51,49,Month-to-month,102.43,546.4,No,Fiber optic,No
+CUST-1116,Male,28,47,One year,83.0,2233.09,Yes,DSL,No
+CUST-1117,Male,62,52,One year,105.81,643.79,Yes,Fiber optic,Yes
+CUST-1118,Male,64,54,One year,98.38,3551.96,No,Fiber optic,No
+CUST-1119,Male,29,60,One year,62.9,1435.02,Yes,No,Yes
+CUST-1120,Female,38,57,Month-to-month,40.11,5384.62,Yes,Fiber optic,Yes
+CUST-1121,Female,28,47,One year,71.42,4722.65,No,Fiber optic,No
+CUST-1122,Female,56,31,One year,93.62,4228.26,Yes,DSL,No
+CUST-1123,Female,45,46,Two year,63.64,3739.97,No,No,No
+CUST-1124,Male,22,26,One year,86.68,5194.45,Yes,DSL,No
+CUST-1125,Male,34,5,One year,29.43,1416.07,No,DSL,Yes
+CUST-1126,Female,37,52,Two year,94.8,5251.34,Yes,No,No
+CUST-1127,Male,58,54,Two year,101.27,4758.0,Yes,No,No
+CUST-1128,Male,63,33,Month-to-month,90.68,4514.15,No,No,Yes
+CUST-1129,Female,29,50,Two year,116.73,3411.41,No,Fiber optic,No
+CUST-1130,Female,23,38,Month-to-month,102.67,1552.84,No,No,No
+CUST-1131,Male,34,27,Two year,110.31,2598.93,No,No,No
+CUST-1132,Male,68,15,Two year,113.36,4782.07,Yes,No,No
+CUST-1133,Female,36,61,Month-to-month,100.13,287.49,Yes,DSL,No
+CUST-1134,Female,43,21,Two year,87.43,4714.1,Yes,DSL,No
+CUST-1135,Female,65,46,Month-to-month,20.57,1516.42,No,Fiber optic,No
+CUST-1136,Male,61,69,Two year,66.58,951.42,Yes,DSL,Yes
+CUST-1137,Female,61,6,One year,77.12,782.64,Yes,Fiber optic,No
+CUST-1138,Female,69,38,Two year,50.4,260.78,No,DSL,No
+CUST-1139,Male,49,62,Month-to-month,51.81,3189.16,No,No,No
+CUST-1140,Male,23,62,Two year,116.12,1387.73,Yes,DSL,No
+CUST-1141,Male,53,46,Month-to-month,109.17,5937.65,No,Fiber optic,No
+CUST-1142,Male,55,13,Month-to-month,104.92,3489.18,Yes,DSL,No
+CUST-1143,Male,28,3,One year,60.6,913.52,Yes,No,Yes
+CUST-1144,Female,50,6,One year,21.37,4163.7,No,Fiber optic,No
+CUST-1145,Female,41,8,Month-to-month,28.02,5396.69,Yes,No,No
+CUST-1146,Male,40,44,Two year,51.22,4496.56,No,No,Yes
+CUST-1147,Male,32,33,Month-to-month,21.57,551.0,No,Fiber optic,No
+CUST-1148,Male,44,50,Month-to-month,21.71,5385.72,Yes,No,No
+CUST-1149,Male,28,11,Two year,111.66,4784.18,Yes,No,No
+CUST-1150,Male,68,28,Two year,90.62,1033.99,Yes,DSL,No
+CUST-1151,Female,67,70,Two year,50.9,405.54,No,No,Yes
+CUST-1152,Female,34,41,Two year,33.26,3388.13,Yes,No,No
+CUST-1153,Female,68,16,Month-to-month,71.16,1020.61,No,No,No
+CUST-1154,Female,31,68,Month-to-month,20.53,5024.09,No,No,No
+CUST-1155,Male,44,48,One year,113.84,2214.17,Yes,Fiber optic,No
+CUST-1156,Female,35,56,Month-to-month,61.48,5486.07,No,DSL,Yes
+CUST-1157,Male,45,64,Two year,60.23,3437.56,Yes,No,Yes
+CUST-1158,Male,68,59,One year,59.06,1177.77,Yes,No,No
+CUST-1159,Male,64,62,Two year,26.93,923.63,Yes,Fiber optic,No
+CUST-1160,Female,64,11,Month-to-month,83.83,3501.19,Yes,No,No
+CUST-1161,Male,21,18,One year,93.3,4595.11,Yes,Fiber optic,No
+CUST-1162,Female,24,19,Two year,87.61,4710.88,Yes,DSL,No
+CUST-1163,Female,62,55,One year,33.84,1726.97,Yes,DSL,No
+CUST-1164,Male,52,26,One year,77.88,1305.06,No,No,No
+CUST-1165,Male,65,6,Month-to-month,76.95,198.86,Yes,No,No
+CUST-1166,Male,26,4,Two year,106.84,4107.27,No,No,No
+CUST-1167,Female,25,29,One year,57.91,551.75,No,Fiber optic,No
+CUST-1168,Male,69,59,One year,57.15,2582.49,No,No,Yes
+CUST-1169,Female,62,17,Two year,81.85,3649.92,Yes,No,No
+CUST-1170,Male,34,43,One year,83.31,5628.94,No,DSL,Yes
+CUST-1171,Male,34,66,One year,66.93,1939.63,No,No,Yes
+CUST-1172,Female,66,34,One year,64.31,1573.66,Yes,DSL,No
+CUST-1173,Female,50,8,Two year,69.41,3959.54,Yes,No,No
+CUST-1174,Female,49,13,Two year,106.1,3753.51,No,DSL,No
+CUST-1175,Female,25,8,Two year,66.12,2059.45,Yes,No,No
+CUST-1176,Female,36,65,Two year,113.99,5575.8,Yes,DSL,No
+CUST-1177,Female,55,43,Month-to-month,70.4,5084.69,Yes,Fiber optic,Yes
+CUST-1178,Male,20,39,One year,114.92,1421.5,Yes,DSL,No
+CUST-1179,Male,22,59,Two year,103.28,1510.94,No,DSL,No
+CUST-1180,Female,30,44,One year,56.24,3122.57,Yes,DSL,No
+CUST-1181,Male,64,9,One year,106.36,4664.08,Yes,No,No
+CUST-1182,Female,63,37,Month-to-month,31.01,359.84,Yes,No,Yes
+CUST-1183,Male,48,36,Two year,112.5,4190.68,No,No,No
+CUST-1184,Male,33,28,Two year,83.16,3924.59,No,Fiber optic,No
+CUST-1185,Female,67,42,One year,25.44,1465.73,Yes,Fiber optic,No
+CUST-1186,Female,49,43,Two year,84.43,4119.98,Yes,DSL,No
+CUST-1187,Female,39,42,One year,117.42,5647.08,No,Fiber optic,No
+CUST-1188,Male,46,66,One year,26.98,376.04,Yes,DSL,No
+CUST-1189,Female,39,55,Month-to-month,75.47,1985.95,Yes,DSL,No
+CUST-1190,Male,60,48,Month-to-month,94.78,2685.24,No,DSL,No
+CUST-1191,Female,20,22,Month-to-month,101.03,5405.64,Yes,Fiber optic,Yes
+CUST-1192,Male,27,27,One year,61.38,5777.34,Yes,No,Yes
+CUST-1193,Male,59,67,Two year,40.42,2720.28,No,Fiber optic,No
+CUST-1194,Female,38,13,Month-to-month,24.23,4525.17,No,DSL,Yes
+CUST-1195,Male,33,45,Two year,77.97,3236.8,Yes,DSL,Yes
+CUST-1196,Male,29,10,Month-to-month,65.29,3272.92,No,Fiber optic,No
+CUST-1197,Female,19,9,Month-to-month,114.87,1740.79,Yes,DSL,No
+CUST-1198,Male,58,54,One year,26.06,1380.04,Yes,DSL,No
+CUST-1199,Female,41,27,Month-to-month,88.54,1799.23,Yes,Fiber optic,Yes
+CUST-1200,Female,52,34,Month-to-month,22.5,3382.34,No,Fiber optic,Yes
+CUST-1201,Female,47,1,One year,37.14,272.02,No,Fiber optic,Yes
+CUST-1202,Female,47,32,Two year,65.36,5452.77,Yes,DSL,No
+CUST-1203,Male,64,71,Month-to-month,65.49,1022.07,Yes,DSL,No
+CUST-1204,Male,52,67,One year,88.57,1398.52,No,No,No
+CUST-1205,Male,36,20,Month-to-month,111.02,3157.83,No,No,Yes
+CUST-1206,Female,67,35,One year,83.9,4289.68,No,Fiber optic,No
+CUST-1207,Male,25,17,Two year,115.35,664.8,Yes,No,No
+CUST-1208,Male,43,18,Two year,108.16,1974.4,No,DSL,No
+CUST-1209,Female,66,45,One year,78.45,5815.18,No,No,No
+CUST-1210,Female,57,53,One year,103.38,1647.82,Yes,DSL,No
+CUST-1211,Male,24,68,One year,84.26,1947.0,Yes,Fiber optic,Yes
+CUST-1212,Female,47,65,Two year,27.86,5035.34,Yes,Fiber optic,Yes
+CUST-1213,Female,24,1,Month-to-month,94.06,396.27,No,DSL,No
+CUST-1214,Female,20,58,Two year,29.49,2841.22,Yes,No,Yes
+CUST-1215,Female,18,26,One year,79.41,2339.74,Yes,Fiber optic,Yes
+CUST-1216,Male,53,20,One year,90.26,1967.86,Yes,Fiber optic,Yes
+CUST-1217,Female,42,10,Two year,26.65,1785.63,Yes,No,Yes
+CUST-1218,Female,54,59,One year,43.08,639.11,No,No,No
+CUST-1219,Female,18,41,Two year,111.57,1957.47,Yes,DSL,No
+CUST-1220,Female,32,5,One year,81.63,354.01,No,No,No
+CUST-1221,Female,54,65,Month-to-month,44.63,4707.69,No,No,No
+CUST-1222,Female,30,17,Month-to-month,89.07,2449.54,No,No,No
+CUST-1223,Female,57,22,One year,79.68,2719.03,Yes,DSL,No
+CUST-1224,Female,25,41,Two year,70.16,5372.21,No,DSL,No
+CUST-1225,Male,22,68,Month-to-month,117.62,3982.52,Yes,Fiber optic,No
+CUST-1226,Female,26,69,Two year,88.35,147.55,Yes,DSL,Yes
+CUST-1227,Male,18,11,One year,57.54,5664.73,Yes,Fiber optic,No
+CUST-1228,Female,53,56,Two year,100.01,1499.15,No,No,No
+CUST-1229,Female,52,51,Month-to-month,108.46,734.92,Yes,Fiber optic,No
+CUST-1230,Female,19,21,Two year,32.52,4631.96,Yes,Fiber optic,No
+CUST-1231,Female,57,26,Two year,40.06,3052.82,Yes,No,No
+CUST-1232,Male,40,19,One year,41.62,2659.25,No,Fiber optic,No
+CUST-1233,Female,26,60,One year,89.12,1572.07,No,DSL,Yes
+CUST-1234,Female,51,71,One year,80.3,3330.08,No,DSL,No
+CUST-1235,Male,63,47,Month-to-month,81.9,1718.87,Yes,DSL,No
+CUST-1236,Male,31,71,Month-to-month,114.08,5419.34,No,DSL,No
+CUST-1237,Female,21,26,One year,97.59,1369.71,Yes,Fiber optic,Yes
+CUST-1238,Male,47,40,One year,32.79,5317.7,Yes,Fiber optic,No
+CUST-1239,Male,48,5,Month-to-month,54.75,3400.49,No,No,No
+CUST-1240,Male,55,21,Month-to-month,63.54,4988.08,Yes,Fiber optic,Yes
+CUST-1241,Female,28,4,Month-to-month,59.6,4305.79,No,Fiber optic,No
+CUST-1242,Female,52,23,Month-to-month,86.93,4210.5,Yes,Fiber optic,Yes
+CUST-1243,Female,25,15,One year,109.19,2013.64,No,No,No
+CUST-1244,Male,20,8,Month-to-month,50.61,1479.99,Yes,DSL,No
+CUST-1245,Female,31,41,One year,75.19,1344.23,Yes,Fiber optic,No
+CUST-1246,Male,30,19,Two year,98.94,5157.43,Yes,No,Yes
+CUST-1247,Female,62,46,Two year,61.62,4940.52,Yes,No,No
+CUST-1248,Female,49,28,Month-to-month,36.81,2699.38,Yes,No,Yes
+CUST-1249,Male,51,68,Two year,67.5,881.19,No,DSL,Yes
+CUST-1250,Female,62,15,Two year,25.52,2355.29,Yes,Fiber optic,Yes
+CUST-1251,Male,36,37,Two year,114.24,3754.13,No,No,Yes
+CUST-1252,Male,55,1,Month-to-month,27.48,2780.98,No,DSL,No
+CUST-1253,Female,33,67,Month-to-month,63.85,4703.12,No,No,No
+CUST-1254,Male,19,24,Two year,72.99,5985.97,Yes,No,No
+CUST-1255,Female,57,27,One year,118.53,1227.68,Yes,No,No
+CUST-1256,Female,34,40,Two year,36.6,2811.94,Yes,No,No
+CUST-1257,Male,51,63,Month-to-month,31.44,2642.81,No,No,No
+CUST-1258,Female,59,61,Month-to-month,20.87,1896.51,Yes,DSL,No
+CUST-1259,Male,33,36,Month-to-month,35.56,1268.76,Yes,Fiber optic,No
+CUST-1260,Female,55,24,Two year,40.73,487.58,No,Fiber optic,Yes
+CUST-1261,Female,19,24,One year,83.06,5334.0,No,Fiber optic,No
+CUST-1262,Female,19,4,Month-to-month,41.97,2577.11,No,Fiber optic,Yes
+CUST-1263,Female,43,67,Month-to-month,22.05,3031.68,No,DSL,No
+CUST-1264,Female,30,34,Two year,102.66,5509.96,No,DSL,No
+CUST-1265,Male,64,57,One year,56.56,4680.11,No,DSL,No
+CUST-1266,Male,48,49,Two year,55.37,869.96,Yes,No,Yes
+CUST-1267,Male,51,53,Month-to-month,50.25,3435.98,No,No,No
+CUST-1268,Male,56,23,One year,117.54,2709.29,Yes,No,Yes
+CUST-1269,Male,20,69,One year,37.01,4803.55,Yes,Fiber optic,No
+CUST-1270,Male,25,53,Month-to-month,109.82,4372.97,Yes,No,Yes
+CUST-1271,Female,40,62,One year,97.68,4173.39,No,Fiber optic,Yes
+CUST-1272,Female,31,41,One year,27.65,2109.21,Yes,No,No
+CUST-1273,Male,44,57,Two year,118.67,4849.29,No,Fiber optic,Yes
+CUST-1274,Male,46,60,Month-to-month,47.14,409.11,No,No,No
+CUST-1275,Female,56,54,Month-to-month,29.86,1041.79,Yes,No,No
+CUST-1276,Female,56,70,Month-to-month,102.93,2080.18,No,DSL,Yes
+CUST-1277,Female,18,57,Month-to-month,90.67,553.16,Yes,No,No
+CUST-1278,Male,34,10,Month-to-month,81.72,1486.47,Yes,No,Yes
+CUST-1279,Male,58,40,One year,35.6,4997.89,No,DSL,No
+CUST-1280,Male,47,7,Two year,67.85,5694.68,Yes,Fiber optic,Yes
+CUST-1281,Female,30,38,Month-to-month,98.06,1897.15,Yes,DSL,No
+CUST-1282,Female,38,61,Two year,50.36,1660.64,Yes,DSL,Yes
+CUST-1283,Male,36,3,Two year,51.17,1751.37,No,Fiber optic,No
+CUST-1284,Male,36,51,One year,20.31,1738.54,Yes,No,No
+CUST-1285,Female,42,47,Month-to-month,37.42,311.99,No,Fiber optic,No
+CUST-1286,Female,39,68,One year,107.54,5568.81,No,No,No
+CUST-1287,Female,48,38,Month-to-month,64.17,1360.82,Yes,No,No
+CUST-1288,Female,34,36,One year,118.42,2578.02,Yes,Fiber optic,No
+CUST-1289,Male,40,41,Two year,59.57,157.15,No,DSL,Yes
+CUST-1290,Female,49,69,Month-to-month,91.52,5161.94,No,Fiber optic,No
+CUST-1291,Female,27,13,Two year,48.19,4413.83,Yes,No,No
+CUST-1292,Female,27,58,Two year,56.38,5685.86,Yes,Fiber optic,No
+CUST-1293,Male,53,50,One year,39.07,4711.53,No,Fiber optic,No
+CUST-1294,Male,25,30,Month-to-month,54.71,1950.87,No,No,No
+CUST-1295,Female,69,62,Two year,74.72,1562.45,No,DSL,Yes
+CUST-1296,Female,37,25,One year,119.18,4216.53,No,Fiber optic,No
+CUST-1297,Female,49,27,Month-to-month,86.42,2248.27,No,No,Yes
+CUST-1298,Male,67,51,Month-to-month,39.92,3440.67,Yes,No,No
+CUST-1299,Male,31,57,Two year,24.5,136.92,No,Fiber optic,No
+CUST-1300,Male,67,47,Month-to-month,32.64,465.13,No,DSL,No
+CUST-1301,Female,45,39,Two year,76.26,3258.67,Yes,Fiber optic,No
+CUST-1302,Male,63,16,Month-to-month,96.52,3439.82,Yes,DSL,No
+CUST-1303,Female,69,22,One year,114.04,4533.57,No,DSL,Yes
+CUST-1304,Female,41,54,Two year,21.58,878.6,No,DSL,No
+CUST-1305,Female,32,21,Two year,72.28,3127.78,Yes,DSL,Yes
+CUST-1306,Male,39,16,Month-to-month,67.09,1247.24,No,Fiber optic,No
+CUST-1307,Female,47,59,Month-to-month,85.61,649.86,No,No,No
+CUST-1308,Male,21,31,Two year,75.96,2521.93,Yes,No,Yes
+CUST-1309,Male,30,42,Month-to-month,88.7,1063.69,No,No,No
+CUST-1310,Female,40,32,One year,85.81,1408.51,Yes,No,No
+CUST-1311,Female,25,59,Month-to-month,31.7,1973.57,Yes,No,No
+CUST-1312,Male,35,34,One year,99.97,1630.39,Yes,No,No
+CUST-1313,Female,29,9,One year,32.32,616.79,Yes,Fiber optic,Yes
+CUST-1314,Male,48,11,One year,89.85,630.51,No,DSL,Yes
+CUST-1315,Female,31,10,One year,61.61,1240.17,Yes,No,No
+CUST-1316,Male,51,17,One year,71.39,398.3,No,Fiber optic,No
+CUST-1317,Male,35,68,Month-to-month,110.33,3796.1,No,No,Yes
+CUST-1318,Male,51,48,One year,108.99,1795.23,No,No,No
+CUST-1319,Male,28,52,Month-to-month,101.79,1750.5,No,DSL,Yes
+CUST-1320,Female,58,25,One year,71.01,2058.79,No,DSL,No
+CUST-1321,Female,29,21,Two year,93.62,4010.5,Yes,DSL,No
+CUST-1322,Male,66,65,One year,71.29,5236.74,Yes,No,No
+CUST-1323,Male,32,63,Two year,106.96,4578.61,Yes,No,No
+CUST-1324,Female,48,51,One year,60.28,4392.42,Yes,No,No
+CUST-1325,Female,66,36,One year,117.02,2957.91,No,DSL,Yes
+CUST-1326,Female,46,66,One year,113.23,4193.45,Yes,Fiber optic,Yes
+CUST-1327,Female,43,15,Two year,94.16,3361.3,No,No,No
+CUST-1328,Female,35,39,Two year,47.94,1375.88,No,No,No
+CUST-1329,Female,49,70,One year,33.17,1330.67,Yes,No,No
+CUST-1330,Male,39,1,Month-to-month,105.47,1848.71,Yes,Fiber optic,No
+CUST-1331,Female,55,23,One year,36.53,5473.74,Yes,No,No
+CUST-1332,Female,34,39,Two year,105.43,3329.75,Yes,Fiber optic,Yes
+CUST-1333,Male,40,57,One year,69.08,4430.04,No,No,No
+CUST-1334,Female,41,34,Two year,60.66,2144.7,No,Fiber optic,No
+CUST-1335,Female,67,41,Two year,110.32,2505.52,Yes,No,No
+CUST-1336,Female,25,13,Two year,80.39,840.84,No,DSL,No
+CUST-1337,Female,58,70,One year,77.66,1110.64,No,DSL,Yes
+CUST-1338,Female,23,6,Two year,75.88,4981.4,No,DSL,No
+CUST-1339,Male,22,52,Two year,57.12,3550.55,Yes,DSL,No
+CUST-1340,Female,61,3,One year,98.56,2091.44,No,No,No
+CUST-1341,Male,46,63,Two year,45.28,4836.82,Yes,DSL,Yes
+CUST-1342,Male,45,49,One year,113.89,1554.47,Yes,Fiber optic,Yes
+CUST-1343,Female,28,47,Two year,109.4,5858.59,No,DSL,Yes
+CUST-1344,Male,18,55,Month-to-month,53.75,2134.42,No,DSL,No
+CUST-1345,Female,60,64,Month-to-month,92.95,2090.13,Yes,DSL,No
+CUST-1346,Male,36,65,Two year,77.32,1940.28,No,No,No
+CUST-1347,Male,26,67,Month-to-month,53.76,820.46,No,DSL,No
+CUST-1348,Female,44,15,One year,118.85,755.71,Yes,Fiber optic,No
+CUST-1349,Female,51,32,Month-to-month,22.52,3923.82,Yes,DSL,No
+CUST-1350,Female,61,68,Two year,45.26,5263.2,Yes,DSL,Yes
+CUST-1351,Female,21,18,Two year,72.01,4764.07,Yes,DSL,No
+CUST-1352,Female,53,43,One year,72.2,932.53,No,Fiber optic,No
+CUST-1353,Male,35,35,Two year,78.89,3318.93,No,DSL,Yes
+CUST-1354,Male,32,58,One year,95.17,722.99,Yes,Fiber optic,Yes
+CUST-1355,Male,68,33,Month-to-month,82.35,367.24,Yes,Fiber optic,No
+CUST-1356,Male,30,14,Month-to-month,80.03,3972.68,Yes,DSL,No
+CUST-1357,Male,36,34,One year,25.35,3257.4,No,Fiber optic,No
+CUST-1358,Male,66,61,One year,57.65,583.94,Yes,No,Yes
+CUST-1359,Male,23,4,Two year,43.21,306.14,No,DSL,No
+CUST-1360,Female,65,59,Month-to-month,46.54,5939.56,Yes,DSL,No
+CUST-1361,Female,29,29,One year,75.43,277.13,Yes,Fiber optic,Yes
+CUST-1362,Male,68,6,Month-to-month,39.95,2722.72,Yes,Fiber optic,No
+CUST-1363,Male,54,49,One year,49.39,3077.25,No,DSL,Yes
+CUST-1364,Female,34,40,Month-to-month,43.71,791.95,No,No,No
+CUST-1365,Female,40,65,Two year,114.85,1097.46,No,Fiber optic,Yes
+CUST-1366,Female,43,69,Month-to-month,114.47,2175.65,Yes,Fiber optic,Yes
+CUST-1367,Female,46,27,Month-to-month,80.99,4593.89,No,No,No
+CUST-1368,Male,50,6,Month-to-month,112.45,3091.79,No,No,Yes
+CUST-1369,Female,44,13,Month-to-month,98.58,3863.62,Yes,DSL,No
+CUST-1370,Male,42,64,Month-to-month,78.99,5912.53,Yes,No,Yes
+CUST-1371,Male,27,62,Two year,20.64,4631.23,No,DSL,No
+CUST-1372,Male,64,19,One year,97.25,2662.73,No,No,Yes
+CUST-1373,Female,40,43,Month-to-month,90.25,2734.01,No,Fiber optic,No
+CUST-1374,Female,38,20,Two year,81.53,3750.76,No,DSL,No
+CUST-1375,Male,38,68,Month-to-month,96.04,4025.65,Yes,DSL,Yes
+CUST-1376,Male,60,44,Month-to-month,71.29,3054.19,Yes,DSL,No
+CUST-1377,Male,30,23,One year,90.41,3904.68,Yes,No,Yes
+CUST-1378,Female,54,2,Month-to-month,113.52,238.84,No,Fiber optic,No
+CUST-1379,Male,50,22,Two year,57.58,2634.77,No,DSL,No
+CUST-1380,Female,41,57,Two year,90.81,1745.73,Yes,DSL,No
+CUST-1381,Male,61,7,One year,67.57,862.13,Yes,DSL,No
+CUST-1382,Male,28,56,Month-to-month,87.44,687.32,No,DSL,No
+CUST-1383,Male,34,67,Two year,96.29,3658.83,No,Fiber optic,Yes
+CUST-1384,Female,21,16,Month-to-month,24.55,3189.24,Yes,No,Yes
+CUST-1385,Female,64,51,Month-to-month,84.66,1596.15,Yes,Fiber optic,No
+CUST-1386,Male,42,12,Month-to-month,42.67,2878.61,Yes,DSL,No
+CUST-1387,Female,47,53,One year,87.0,3004.17,No,Fiber optic,No
+CUST-1388,Male,26,5,Month-to-month,66.83,1250.55,No,DSL,No
+CUST-1389,Female,38,27,Two year,97.36,3947.35,No,No,No
+CUST-1390,Female,37,12,Month-to-month,32.34,4707.42,No,No,No
+CUST-1391,Female,36,17,Two year,82.63,4769.63,No,No,No
+CUST-1392,Male,36,6,Month-to-month,47.85,3654.57,No,DSL,No
+CUST-1393,Female,29,5,Two year,105.3,3118.67,Yes,Fiber optic,No
+CUST-1394,Female,54,57,Two year,112.84,459.94,Yes,No,Yes
+CUST-1395,Male,59,28,Month-to-month,119.64,1798.2,No,DSL,Yes
+CUST-1396,Male,34,69,Month-to-month,99.6,650.3,Yes,DSL,No
+CUST-1397,Male,54,59,Two year,95.37,5786.56,No,Fiber optic,Yes
+CUST-1398,Male,65,33,One year,41.55,896.97,Yes,No,No
+CUST-1399,Female,56,62,Month-to-month,53.6,995.47,No,DSL,No
