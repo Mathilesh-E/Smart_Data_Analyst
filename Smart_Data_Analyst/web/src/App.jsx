@@ -141,7 +141,10 @@ function App() {
     const params = new URLSearchParams(window.location.search);
     return params.get("page") || "overview";
   });
-  const [theme, setTheme] = useState(() => localStorage.getItem("sda-theme") || "dark");
+  const [theme, setTheme] = useState(() => {
+    const params = new URLSearchParams(window.location.search);
+    return params.get("theme") || localStorage.getItem("sda-theme") || "light";
+  });
   const [workspace, setWorkspace] = useState(() => localStorage.getItem("sda-workspace"));
   const [data, setData] = useState(null);
   const [samples, setSamples] = useState([]);
@@ -169,16 +172,26 @@ function App() {
   }, []);
 
   useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const targetSample = params.get("sample");
+    const isWelcome = params.get("welcome") === "1";
+
     fetch(`${API}/samples`)
       .then((r) => r.json())
       .then((sampleList) => {
         setSamples(sampleList);
-        if (!workspace && sampleList.length > 0) {
+        if (isWelcome) {
+          setData(null);
+          return;
+        }
+        if (targetSample) {
+          loadSample(targetSample);
+        } else if (!workspace && sampleList.length > 0) {
           loadSample(sampleList[0].file);
         }
       })
       .catch(() => setSamples([]));
-    if (workspace) loadWorkspace(workspace);
+    if (!targetSample && !isWelcome && workspace) loadWorkspace(workspace);
   }, []); // Initial restore only.
 
   const notify = (message) => { setToast(message); window.setTimeout(() => setToast(""), 3200); };
@@ -241,7 +254,7 @@ function App() {
     <input ref={fileRef} type="file" accept=".csv,.xlsx,.xls" hidden onChange={(e) => { upload(e.target.files?.[0]); e.target.value = ""; }} />
     <AnimatePresence>{dragging && <motion.div className="drop-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}><CloudUpload size={30} />Drop a CSV or Excel file to analyze</motion.div>}</AnimatePresence>
     <aside className={`sidebar ${mobileNav ? "open" : ""}`}>
-      <div className="brand"><div className="brand-mark"><Activity size={19} /></div><div><strong>Smart<span>Data Analyst</span></strong><small>DATA ANALYSIS PLATFORM</small></div><button className="icon-btn mobile-close" onClick={() => setMobileNav(false)} aria-label="Close menu"><X size={18} /></button></div>
+      <div className="brand"><div className="brand-mark"><Activity size={19} /></div><div><strong>Smart <span>Data Analyst</span></strong><small>DATA ANALYSIS PLATFORM</small></div><button className="icon-btn mobile-close" onClick={() => setMobileNav(false)} aria-label="Close menu"><X size={18} /></button></div>
       <div className="workspace-label">WORKSPACE</div>
       {["workspace", "analysis", "manage"].map((group) => <div className="nav-group" key={group}>
         <div className="nav-group-label">{group === "workspace" ? "YOUR DATA" : group}</div>

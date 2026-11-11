@@ -9,3 +9,4 @@ if str(smart_dir) not in sys.path:
 
 # Import the FastAPI app
 from api import app
+

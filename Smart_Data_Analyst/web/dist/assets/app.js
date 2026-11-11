@@ -93853,7 +93853,8 @@ function App() {
     page = _useState2[0],
     setPage = _useState2[1];
   var _useState3 = (0, _react.useState)(function () {
-      return localStorage.getItem("sda-theme") || "dark";
+      var params = new URLSearchParams(window.location.search);
+      return params.get("theme") || localStorage.getItem("sda-theme") || "light";
     }),
     _useState4 = _slicedToArray(_useState3, 2),
     theme = _useState4[0],
@@ -93940,17 +93941,26 @@ function App() {
     };
   }(), []);
   (0, _react.useEffect)(function () {
+    var params = new URLSearchParams(window.location.search);
+    var targetSample = params.get("sample");
+    var isWelcome = params.get("welcome") === "1";
     fetch("".concat(API, "/samples")).then(function (r) {
       return r.json();
     }).then(function (sampleList) {
       setSamples(sampleList);
-      if (!workspace && sampleList.length > 0) {
+      if (isWelcome) {
+        setData(null);
+        return;
+      }
+      if (targetSample) {
+        loadSample(targetSample);
+      } else if (!workspace && sampleList.length > 0) {
         loadSample(sampleList[0].file);
       }
     })["catch"](function () {
       return setSamples([]);
     });
-    if (workspace) loadWorkspace(workspace);
+    if (!targetSample && !isWelcome && workspace) loadWorkspace(workspace);
   }, []); // Initial restore only.
 
   var notify = function notify(message) {
@@ -94222,7 +94232,7 @@ function App() {
     className: "brand-mark"
   }, /*#__PURE__*/_react["default"].createElement(_lucideReact.Activity, {
     size: 19
-  })), /*#__PURE__*/_react["default"].createElement("div", null, /*#__PURE__*/_react["default"].createElement("strong", null, "Smart", /*#__PURE__*/_react["default"].createElement("span", null, "Data Analyst")), /*#__PURE__*/_react["default"].createElement("small", null, "DATA ANALYSIS PLATFORM")), /*#__PURE__*/_react["default"].createElement("button", {
+  })), /*#__PURE__*/_react["default"].createElement("div", null, /*#__PURE__*/_react["default"].createElement("strong", null, "Smart ", /*#__PURE__*/_react["default"].createElement("span", null, "Data Analyst")), /*#__PURE__*/_react["default"].createElement("small", null, "DATA ANALYSIS PLATFORM")), /*#__PURE__*/_react["default"].createElement("button", {
     className: "icon-btn mobile-close",
     onClick: function onClick() {
       return setMobileNav(false);
